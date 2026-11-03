@@ -10,7 +10,7 @@ Encontros Bibli* (DOI: [10.5007/1518-2924.2024.e96589](https://doi.org/10.5007/1
 ## Demonstração
 
 A rede interativa está publicada em:
-**https://remat-rede-coautoria.gerlanmatfis.workers.dev**
+**https://coautoriaremat.pages.dev**
 
 ## Funcionalidades
 
@@ -64,14 +64,18 @@ Ajustes necessários por revista:
 3. ajustar o seletor interno dos nomes de autores (aqui: `div.authors span.name`);
 4. tratar paginação do arquivo e eventuais cookies/anti-bot.
 
-## Publicação (GitHub Pages do Cloudflare)
+## Publicação (Cloudflare Pages)
 
-A pasta `site/` é um site estático: qualquer host serve. A configuração de deploy
-está em `wrangler.jsonc`. Para publicar no Cloudflare Pages (Workers):
+A pasta `site/` é um site estático: qualquer host serve. O deploy usa o Cloudflare
+Pages clássico (que fornece o domínio `*.pages.dev`):
 
 ```bash
-npx wrangler deploy
+npx wrangler@3 pages deploy site --project-name coautoriaremat
 ```
+
+Nota: o domínio gratuito `.pages.dev` tem sempre o formato `{nome-do-projeto}.pages.dev`
+(um único rótulo). Para um domínio com subnível (ex.: `coautoria.remat.com.br`), é
+necessário registrar/possuir o domínio e adicioná-lo como domínio customizado.
 
 ## Licença
 
