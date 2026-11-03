@@ -28,7 +28,7 @@ A rede interativa está publicada em:
 
 ```
 remat_coautoria.py          # raspagem OJS + rede básica (requests + BeautifulSoup)
-remat_ferramentas.py        # métricas, comunidades e geração do HTML interativo
+gerar_rede.py               # métricas, comunidades e geração do HTML (genérico)
 remat_dados_coautoria.json  # dados raspados (artigos, produção, arestas)
 site/
   index.html                # rede interativa (self-contained)
@@ -46,7 +46,9 @@ pip install requests beautifulsoup4 networkx
 python remat_coautoria.py
 
 # 2. calcula métricas/comunidades e gera site/index.html
-python remat_ferramentas.py
+python gerar_rede.py --input remat_dados_coautoria.json \
+    --outdir site --titulo "Revista de Educação Matemática (REMat-SP)" \
+    --rotulo "REMat-SP"
 ```
 
 O portal da REMat-SP usa um desafio anti-bot ("humans_21909"); o script define o
