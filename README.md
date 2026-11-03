@@ -10,7 +10,7 @@ Encontros Bibli* (DOI: [10.5007/1518-2924.2024.e96589](https://doi.org/10.5007/1
 ## Demonstração
 
 A rede interativa está publicada em:
-**https://remat-rede-coautoria.pages.dev**
+**https://remat-rede-coautoria.gerlanmatfis.workers.dev**
 
 ## Funcionalidades
 
@@ -66,11 +66,11 @@ Ajustes necessários por revista:
 
 ## Publicação (GitHub Pages do Cloudflare)
 
-A pasta `site/` é um site estático: qualquer host serve. Para publicar no
-Cloudflare Pages:
+A pasta `site/` é um site estático: qualquer host serve. A configuração de deploy
+está em `wrangler.jsonc`. Para publicar no Cloudflare Pages (Workers):
 
 ```bash
-npx wrangler pages deploy site --project-name remat-rede-coautoria
+npx wrangler deploy
 ```
 
 ## Licença
