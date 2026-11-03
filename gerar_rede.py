@@ -374,6 +374,17 @@ SIGLA_MAP = {
     "faculdade de educacao/unicamp": "UNICAMP",
     "faculdade de educacao da unicamp": "UNICAMP",
     "faculdade de educacao da universidade de sao paulo": "FEUSP",
+    # desambiguações pontuais (instituições que colidiriam pelas iniciais)
+    "universidade federal do cariri": "UFCA",
+    "universidade do extremo sul catarinense": "UNESC",
+    "universidade luterana do brasil": "ULBRA",
+    "universidade catolica de petropolis": "UCP",
+    "secretaria de estado de educacao do para": "SEDUC-PA",
+    "secretaria de estado de educacao do para (seduc/pa)": "SEDUC-PA",
+    "mackenzie": "Mackenzie",
+    "univ. mackenzie": "Mackenzie",
+    "univates": "Univates",
+    "secretaria de educacao do estado do parana": "SEED-PR",
 }
 
 # primeiro token já é a sigla (caixa mista), usado antes de gerar iniciais
@@ -430,7 +441,7 @@ def _gerar_sigla(t):
         return t
     prefixo = ""
     p = palavras[0].lower()
-    if p == "universidade":
+    if p in ("universidade", "universidad", "université", "universitat"):
         prefixo = "U"; palavras = palavras[1:]
         if palavras and palavras[0].lower() == "federal":
             prefixo = "UF"; palavras = palavras[1:]
@@ -464,10 +475,21 @@ def _gerar_sigla(t):
         prefixo = "E"; palavras = palavras[1:]
     stop = {"de", "da", "do", "das", "dos", "e", "a", "o", "para", "em", "no",
             "na", "com", "sobre", "apostolado", "saude", "nacional",
-            "of", "the", "and", "at"}
+            "of", "the", "and", "at",
+            # países/estados que aparecem como sufixo de afiliação
+            "brasil", "portugal", "espanha", "espana", "chile", "colombia",
+            "mexico", "argentina", "peru", "uruguai", "franca", "alemanha",
+            "italia", "inglaterra", "canada", "australia", "eua", "usa"}
     iniciais = "".join(w[0].upper() for w in palavras
                        if _strip_accents(w).lower() not in stop)
     sig = prefixo + iniciais
+    # universidades estrangeiras/privadas sem sigla conhecida: sigla de 2 letras
+    # é ambígua (ex.: "University of Manitoba" -> "UM"), usa o nome do lugar.
+    if len(sig) <= 2 and p in ("universidade", "universidad", "university",
+                               "université", "universitat"):
+        rest = [w for w in palavras if _strip_accents(w).lower() not in stop]
+        if rest:
+            return rest[-1][0].upper() + rest[-1][1:].lower()
     return sig if len(sig) >= 2 else t
 
 
@@ -511,7 +533,7 @@ def sigla_instituicao(raw):
             sig = t
     # 5) primeiro token já é a sigla (caixa mista): "Unesp - Rio Claro" -> "UNESP"
     if sig is None:
-        tok = _strip_accents(t.split()[0]).lower()
+        tok = _strip_accents(re.split(r"[^A-Za-zÀ-ú]", t.split()[0])[0]).lower()
         if tok in PREFIX_SIGLA:
             sig = PREFIX_SIGLA[tok]
     # 6) dicionário por nome extenso (pt/en)
@@ -519,11 +541,12 @@ def sigla_instituicao(raw):
         key = _strip_accents(t).lower()
         if key in SIGLA_MAP:
             sig = SIGLA_MAP[key]
-    # 6b) o nome por extenso aparece como trecho do texto
+    # 6b) o nome por extenso aparece como trecho do texto (com limite de palavra,
+    #     para "para" não casar dentro de "paraná")
     #     (ex.: "... Ilha Solteira-SP.", "... campus Maringá-PR.")
     if sig is None:
         for k in sorted(SIGLA_MAP, key=len, reverse=True):
-            if k in key:
+            if re.search(r"(?<![a-z0-9])" + re.escape(k) + r"(?![a-z0-9])", key):
                 sig = SIGLA_MAP[k]
                 break
     # 7) gera pelas iniciais
