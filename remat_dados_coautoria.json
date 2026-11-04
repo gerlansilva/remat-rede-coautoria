@@ -1,12 +1,29 @@
 {
+  "revista": "Revista de Educação Matemática (REMat-SP)",
   "artigos": [
+    [
+      "Gretel Alejandrina Fernandez von Metzen",
+      "Claudia Mariela Zang",
+      "María Natalia León"
+    ],
+    [
+      "Luan Paulino da Costa"
+    ],
+    [
+      "Fabíola da Cruz Martins",
+      "Silvanio de Andrade"
+    ],
     [
       "Francelino Bomfim Santos",
       "Joubert Lima Ferreira"
     ],
     [
-      "Robson Luiz da Costa Rosa",
-      "Christine Sertã Costa"
+      "Amanda Regina dos Santos Andrade",
+      "Gilda Lisbôa Guimarães"
+    ],
+    [
+      "Marcelo Silva de Jesus",
+      "Angela Marta Pereira das Dores Savioli"
     ],
     [
       "Solange Aparecida Corrêa",
@@ -18,24 +35,16 @@
       "Edmilson Minoru Torisu"
     ],
     [
-      "Fabíola da Cruz Martins",
-      "Silvanio de Andrade"
+      "Gabriel Willyan Pinheiro de Souza",
+      "Manoel Fernandes Braz Rendeiro"
     ],
     [
-      "Gretel Alejandrina Fernandez von Metzen",
-      "Claudia Mariela Zang",
-      "María Natalia León"
+      "Luísa Cardoso Mendes",
+      "Agnaldo da Conceição Esquincalha"
     ],
     [
-      "Amanda Regina dos Santos Andrade",
-      "Gilda Lisbôa Guimarães"
-    ],
-    [
-      "Luan Paulino da Costa"
-    ],
-    [
-      "Marcelo Silva de Jesus",
-      "Angela Marta Pereira das Dores Savioli"
+      "Robson Luiz da Costa Rosa",
+      "Christine Sertã Costa"
     ],
     [
       "Douglas da Silva Tinti",
@@ -46,12 +55,10 @@
       "Bruna Larissa Cecco"
     ],
     [
-      "Gabriel Willyan Pinheiro de Souza",
-      "Manoel Fernandes Braz Rendeiro"
-    ],
-    [
-      "Luísa Cardoso Mendes",
-      "Agnaldo da Conceição Esquincalha"
+      "Luana Leal Alves",
+      "Thaís Daltoé",
+      "Crislaine de Anunciação Roveda",
+      "João Alberto da Silva"
     ],
     [
       "Thais Paschoal Postingue",
@@ -63,26 +70,13 @@
       "Roseli de Alvarenga Corrêa"
     ],
     [
-      "Luis Andrés Castillo",
-      "Ivonne C. Sánchez",
-      "Iran Abreu Mendes"
-    ],
-    [
-      "Luana Leal Alves",
-      "Thaís Daltoé",
-      "Crislaine de Anunciação Roveda",
-      "João Alberto da Silva"
-    ],
-    [
       "Débora Pelli",
       "Fernando de Carvalho Pires"
     ],
     [
-      "Victor Ferreira Ragoni",
-      "Aparecida Santana de Souza Chiari"
-    ],
-    [
-      "João Francisco Staffa da Costa"
+      "Luis Andrés Castillo",
+      "Ivonne C. Sánchez",
+      "Iran Abreu Mendes"
     ],
     [
       "Gregson Barros da Silva",
@@ -90,12 +84,14 @@
       "Liamara Scortegagna"
     ],
     [
-      "Keila Cristina Weçolovis",
-      "João Carlos Pereira de Moraes"
+      "João Francisco Staffa da Costa"
     ],
     [
-      "Eliane Ferreira Pinto",
-      "Celi Espasandin Lopes"
+      "Alef Bruno dos Santos"
+    ],
+    [
+      "Victor Ferreira Ragoni",
+      "Aparecida Santana de Souza Chiari"
     ],
     [
       "Jhenifer Licero Schuete Silva",
@@ -103,11 +99,8 @@
       "Maria Luiza Evangelista Gil"
     ],
     [
-      "Mikaelly Silva Andrade",
-      "Simone Moura Queiroz"
-    ],
-    [
-      "Alef Bruno dos Santos"
+      "Keila Cristina Weçolovis",
+      "João Carlos Pereira de Moraes"
     ],
     [
       "Gleidson Filadelfo Dimaranes",
@@ -116,7 +109,19 @@
       "José Milton Lopes Pinheiro"
     ],
     [
+      "Gabriel Willyan Pinheiro de Souza",
+      "Manoel Fernandes Braz Rendeiro"
+    ],
+    [
+      "Eliane Ferreira Pinto",
+      "Celi Espasandin Lopes"
+    ],
+    [
       "Jose da Silva"
+    ],
+    [
+      "Mikaelly Silva Andrade",
+      "Simone Moura Queiroz"
     ],
     [
       "João Vitor da Silva",
@@ -125,32 +130,13 @@
       "João Ferreira da Silva Neto"
     ],
     [
-      "Adriege Rodrigues",
-      "Izabela Barbosa Freitas",
-      "Ana Cláudia da Silva Rodrigues"
-    ],
-    [
-      "Gabriel Willyan Pinheiro de Souza",
-      "Manoel Fernandes Braz Rendeiro"
-    ],
-    [
       "Ivonne C. Sánchez",
       "Luis Andrés Castillo"
     ],
     [
-      "João Ricardo Viola dos Santos",
-      "João Pedro Antunes de Paulo",
-      "Rejane Siqueira Julio"
-    ],
-    [
-      "Thiago Pedro Pinto"
-    ],
-    [
-      "Rosemeire de Fatima Batistela",
-      "Maria Aparecida Viggiani Bicudo"
-    ],
-    [
-      "Cristiane Maria Cornelia Gottschalk"
+      "Adriege Rodrigues",
+      "Izabela Barbosa Freitas",
+      "Ana Cláudia da Silva Rodrigues"
     ],
     [
       "Rossi D'Souza"
@@ -158,6 +144,10 @@
     [
       "João Severino Filho",
       "Adailton Alves da Silva"
+    ],
+    [
+      "Rosemeire de Fatima Batistela",
+      "Maria Aparecida Viggiani Bicudo"
     ],
     [
       "João Paulo Risso",
@@ -168,7 +158,7 @@
       "Victor Giraldo"
     ],
     [
-      "Diego de Matos Gondim"
+      "Thiago Pedro Pinto"
     ],
     [
       "Valdomiro Pinheiro Teixeira Junior",
@@ -180,47 +170,36 @@
       "Henrique Marins de Carvalho"
     ],
     [
+      "Cristiane Maria Cornelia Gottschalk"
+    ],
+    [
       "Diego Matos",
       "Fellipe Coelho",
       "Carolina Tamayo"
+    ],
+    [
+      "Kelvin Rafael Rodrigues de Oliveira"
     ],
     [
       "Flavio Augusto Leite Taveira",
       "Deise Aparecida Peralta"
     ],
     [
+      "Diego de Matos Gondim"
+    ],
+    [
       "Elhane de Fatima Fritsch Cararo",
       "Tiago Emanuel Klüber"
-    ],
-    [
-      "Kelvin Rafael Rodrigues de Oliveira"
-    ],
-    [
-      "Elaine Caire",
-      "Virgínia Cardia Cardoso"
-    ],
-    [
-      "Fabio Lennon Marchon"
     ],
     [
       "Steven Watson"
     ],
     [
-      "João Ricardo Viola dos Santos",
-      "João Pedro Antunes de Paulo",
-      "Rejane Siqueira Julio"
+      "Fabio Lennon Marchon"
     ],
     [
-      "José Milton Lopes Pinheiro",
-      "Antonio dos Santos Andrade",
-      "Cecília Pereira Andrade",
-      "Egídio Rodrigues Martins",
-      "Luis Carlos Leal Junior"
-    ],
-    [
-      "Patricia Souza",
-      "Joao Coelho Neto",
-      "Marilia Bazan Blanco"
+      "Elaine Caire",
+      "Virgínia Cardia Cardoso"
     ],
     [
       "Renata Teófilo de Sousa",
@@ -228,17 +207,35 @@
       "Maria José Araújo Souza"
     ],
     [
-      "Nilton Cezar Ferreira",
-      "Wagna Mendes Vieira",
-      "Luciano Duarte da Silva"
+      "Patrícia Lima da Silva",
+      "Claudia Glavam Duarte"
+    ],
+    [
+      "Patricia Souza",
+      "Joao Coelho Neto",
+      "Marilia Bazan Blanco"
     ],
     [
       "Lucélida de Fátima Maia da Costa",
       "Evandro Ghedin"
     ],
     [
-      "Patrícia Lima da Silva",
-      "Claudia Glavam Duarte"
+      "Nilton Cezar Ferreira",
+      "Wagna Mendes Vieira",
+      "Luciano Duarte da Silva"
+    ],
+    [
+      "Sonia Maria da Silva Junqueira",
+      "Leandro Blass",
+      "Lorenzo Schneider Morales",
+      "Larissa Pereira da Silva",
+      "Lucas Capello",
+      "Klismann Winter Pinheiro"
+    ],
+    [
+      "João Ricardo Viola dos Santos",
+      "João Pedro Antunes de Paulo",
+      "Rejane Siqueira Julio"
     ],
     [
       "Maria Débora de Lima Souza",
@@ -254,14 +251,6 @@
       "Jader Otavio Dalto"
     ],
     [
-      "Sonia Maria da Silva Junqueira",
-      "Leandro Blass",
-      "Lorenzo Schneider Morales",
-      "Larissa Pereira da Silva",
-      "Lucas Capello",
-      "Klismann Winter Pinheiro"
-    ],
-    [
       "Josué Antunes de Macêdo",
       "Ítalo Andrew Rodrigues Santos",
       "Lailson dos Reis Pereira Lopes"
@@ -272,9 +261,28 @@
       "Maria Lucia Panossian"
     ],
     [
+      "Gabriele Souza de Carvalho",
+      "Grace Dórea Santos Baqueiro"
+    ],
+    [
       "Luiz Carlos Leal Junior",
       "Antônio dos Santos Andrade",
       "Lucas Augusto Moreira Barros"
+    ],
+    [
+      "Flávia Sueli Fabiani Marcatto"
+    ],
+    [
+      "Indiana Picolo Vial",
+      "Adriana Richit"
+    ],
+    [
+      "Gabrielle Janaina Barros de Menezes",
+      "Ronaldo Barros Ripardo"
+    ],
+    [
+      "Fernando de Carvalho Pires",
+      "Joseane Mirtis de Queiroz Pinheiro"
     ],
     [
       "Cíntia Raquel Ferreira Mercado de Almeida",
@@ -285,36 +293,9 @@
       "Regiane da Silva Barbosa"
     ],
     [
-      "Gabriele Souza de Carvalho",
-      "Grace Dórea Santos Baqueiro"
-    ],
-    [
-      "Gabrielle Janaina Barros de Menezes",
-      "Ronaldo Barros Ripardo"
-    ],
-    [
-      "Indiana Picolo Vial",
-      "Adriana Richit"
-    ],
-    [
-      "Fernando de Carvalho Pires",
-      "Joseane Mirtis de Queiroz Pinheiro"
-    ],
-    [
-      "Flávia Sueli Fabiani Marcatto"
-    ],
-    [
-      "Bruno Damien da Costa Paes Jürgensen",
-      "Jader Otavio Dalto",
-      "Marcele Tavares Mendes"
-    ],
-    [
-      "Dayani Quero da Silva",
-      "João Ricardo Viola dos Santos"
-    ],
-    [
-      "Pamela Emanueli Alves Ferreira",
-      "Regina Luzia Corio de Buriasco"
+      "Maria Isabel Ramalho Ortigão",
+      "Carlos Augusto Aguilar Júnior",
+      "Geraldo Eustáquio Moreira"
     ],
     [
       "Guilherme Rodrigues Batista",
@@ -324,9 +305,8 @@
       "Henrique Marins de Carvalho"
     ],
     [
-      "Maria Isabel Ramalho Ortigão",
-      "Carlos Augusto Aguilar Júnior",
-      "Geraldo Eustáquio Moreira"
+      "Dayani Quero da Silva",
+      "João Ricardo Viola dos Santos"
     ],
     [
       "Bruno Jürgensen"
@@ -336,6 +316,16 @@
       "Felipe Olavo Silva",
       "Amanda Azevedo Abou Mourad",
       "Rafael Guimarães de Assis Motta"
+    ],
+    [
+      "Pamela Emanueli Alves Ferreira",
+      "Regina Luzia Corio de Buriasco"
+    ],
+    [
+      "Antonio Miguel",
+      "Carolina Tamayo",
+      "Elizabeth Gomes Souza",
+      "Alexandrina Monteiro"
     ],
     [
       "Jader Otavio Dalto",
@@ -355,32 +345,26 @@
       "Mário Keniichi Gushima Moura"
     ],
     [
-      "Gabriel dos Santos e Silva",
-      "Mariana Souza Innocenti",
-      "Jessica Aparecida Borssoi Zanquim"
-    ],
-    [
       "Rita de Cássia Tenfen",
       "Morgana Scheller",
       "Cloves Kurek"
-    ],
-    [
-      "Cármen Lúcia Blancaglion Passos",
-      "Flavia dos Santos Soares"
     ],
     [
       "Marcia Cristina de Costa Trindade Cyrino",
       "Regina Célia Grando Grando"
     ],
     [
-      "Antonio Miguel",
-      "Carolina Tamayo",
-      "Elizabeth Gomes Souza",
-      "Alexandrina Monteiro"
-    ],
-    [
       "Adair Mendes Nacarato",
       "Kátia Gabriela Moreira"
+    ],
+    [
+      "Gabriel dos Santos e Silva",
+      "Mariana Souza Innocenti",
+      "Jessica Aparecida Borssoi Zanquim"
+    ],
+    [
+      "Antonia Alves Pereira da Silva",
+      "Maria Isabel Ramalho Ortigão"
     ],
     [
       "Francisco Josimar Ricardo Xavier",
@@ -388,13 +372,12 @@
       "Adriano Vargas Freitas"
     ],
     [
-      "Antonia Alves Pereira da Silva",
-      "Maria Isabel Ramalho Ortigão"
-    ],
-    [
       "Flávia Cristina de Macêdo Santana",
       "Enio Freire De Paula",
       "Patrícia Sândalo Pereira"
+    ],
+    [
+      "Maria Celeste Souza de Castro"
     ],
     [
       "Margareth Sacramento Rotondo",
@@ -402,16 +385,9 @@
       "Sônia Maria Clareto"
     ],
     [
-      "Maria Celeste Souza de Castro"
-    ],
-    [
-      "Wagner Rodrigues Valente"
-    ],
-    [
-      "Rogério Marques Ribeiro",
-      "Armando Traldi Jr",
-      "Enio Freire de Paula",
-      "Vinicius Pazuch"
+      "Francisco Hemerson Brito da Silva",
+      "Ana Carolina Costa Pereira",
+      "Antonia Naiara de Sousa Batista"
     ],
     [
       "Heriberto Silva Nunes Bezerra",
@@ -420,11 +396,6 @@
     [
       "Alixandre Marques Cruz",
       "Carlos Alberto de Vasconcelos"
-    ],
-    [
-      "Francisco Hemerson Brito da Silva",
-      "Ana Carolina Costa Pereira",
-      "Antonia Naiara de Sousa Batista"
     ],
     [
       "Eliane Maria Vani Ortega"
@@ -438,14 +409,7 @@
       "Ernandes Rocha de Oliveira"
     ],
     [
-      "Jacqueline Nascimento de Souza",
-      "Carlson Guerreiro de Almeida",
-      "Zulma Elizabete de Freitas Madruga"
-    ],
-    [
-      "Reinaldo Feio Lima",
-      "Marlúbia Corrêa de Paula",
-      "Cassio Cristiano Giordano"
+      "Wagner Rodrigues Valente"
     ],
     [
       "José Augusto Lopes da Silva"
@@ -456,14 +420,31 @@
       "Bruna Mayara Batista Rodrigues"
     ],
     [
+      "Reinaldo Feio Lima",
+      "Marlúbia Corrêa de Paula",
+      "Cassio Cristiano Giordano"
+    ],
+    [
+      "Adriano Alves da Silveira",
+      "Silvanio de Andrade"
+    ],
+    [
       "Claudia de Oliveira Lozada",
       "Janaíne Ferreira dos Santos",
       "Bruna Gama dos Santos",
       "Cryslane Araújo de Lima"
     ],
     [
-      "Adriano Alves da Silveira",
-      "Silvanio de Andrade"
+      "Jacqueline Nascimento de Souza",
+      "Carlson Guerreiro de Almeida",
+      "Zulma Elizabete de Freitas Madruga"
+    ],
+    [
+      "Daniel Albernaz de Paiva Brito",
+      "Gabriel Loureiro de Lima"
+    ],
+    [
+      "Edel Alexandre Silva Pontes"
     ],
     [
       "Benedito Junior Farias Pantoja",
@@ -472,19 +453,23 @@
       "Ana Carolina Costa Pereira"
     ],
     [
-      "Edel Alexandre Silva Pontes"
+      "Roger Ruben Huaman Huanca",
+      "Ananias Félix da Silva"
     ],
     [
-      "Daniel Albernaz de Paiva Brito",
-      "Gabriel Loureiro de Lima"
+      "Joubert Lima Ferreira"
     ],
     [
       "Josélia Euzébio da Rosa",
       "Fabiana de Souza Marcelo"
     ],
     [
-      "Roger Ruben Huaman Huanca",
-      "Ananias Félix da Silva"
+      "Edvanilson Santos de Oliveira",
+      "Patrícia Sandalo Pereira"
+    ],
+    [
+      "Reilan Bomfim da Silva",
+      "Eurivalda Ribeiro dos Santos Santana"
     ],
     [
       "Pedro Mikael Santos Silva",
@@ -498,31 +483,6 @@
       "Celiane Costa Machado"
     ],
     [
-      "Edvanilson Santos de Oliveira",
-      "Patrícia Sandalo Pereira"
-    ],
-    [
-      "Joubert Lima Ferreira"
-    ],
-    [
-      "Reilan Bomfim da Silva",
-      "Eurivalda Ribeiro dos Santos Santana"
-    ],
-    [
-      "Fabiana dos Santos Vieira",
-      "Cláudia Celeste Lima Costa Menezes"
-    ],
-    [
-      "Thiago Beirigo Lopes",
-      "Luis Andrés Castillo",
-      "Dailson Evangelista Costa",
-      "Ivonne C. Sánchez"
-    ],
-    [
-      "Maria Cecilia Fantinato",
-      "Adriano Vargas Freitas"
-    ],
-    [
       "Claudio Fernandes da Costa"
     ],
     [
@@ -530,15 +490,15 @@
       "Jackeline Rodrigues Mendes"
     ],
     [
-      "Marcio D'Olne Campos"
+      "Fabiana dos Santos Vieira",
+      "Cláudia Celeste Lima Costa Menezes"
     ],
     [
       "Hilbert Blanco Alvarez",
       "Edwin Molano Franco"
     ],
     [
-      "Eric Vandendriessche",
-      "Maria Cecilia Fantinato"
+      "Marcio D'Olne Campos"
     ],
     [
       "Kécio Leite",
@@ -548,44 +508,56 @@
       "Fabio Lennon Marchon"
     ],
     [
+      "Thiago Beirigo Lopes",
+      "Luis Andrés Castillo",
+      "Dailson Evangelista Costa",
+      "Ivonne C. Sánchez"
+    ],
+    [
+      "Eric Vandendriessche",
+      "Maria Cecilia Fantinato"
+    ],
+    [
       "Marília Prado",
       "Cristiane Coppe de Oliveira"
     ],
     [
-      "Filipe Santos Fernandes",
-      "Eliziara Pereira Coutinho"
+      "Thiago Donda Rodrigues"
     ],
     [
       "José Ricardo e Souza Mafra"
+    ],
+    [
+      "Andréa Thees"
     ],
     [
       "Adriano Vargas Freitas",
       "Maria Cecilia Fantinato"
     ],
     [
-      "Andréa Thees"
-    ],
-    [
-      "Thiago Donda Rodrigues"
-    ],
-    [
-      "Rogério Marques Ribeiro",
-      "Armando Traldi Jr",
-      "Enio Freire de Paula",
-      "Vinícius Pazuch"
-    ],
-    [
       "Ivanete Fátima Blauth",
       "Suely Scherer"
-    ],
-    [
-      "Relicler Pardim Gouveia"
     ],
     [
       "Fernando Frei"
     ],
     [
+      "Filipe Santos Fernandes",
+      "Eliziara Pereira Coutinho"
+    ],
+    [
       "Renata Aparecida de Faria"
+    ],
+    [
+      "Relicler Pardim Gouveia"
+    ],
+    [
+      "Carloney Alves de Oliveira",
+      "Williane Costa Ferreira"
+    ],
+    [
+      "Patrícia Costa Ginez",
+      "Rogério Fernando Pires"
     ],
     [
       "Carlos Mometti"
@@ -594,12 +566,14 @@
       "Flávia Marcatto"
     ],
     [
-      "Cirléia Pereira Barbosa",
-      "Celi Espasandin Lopes"
+      "Raquel Gomes de Oliveira"
     ],
     [
-      "Carloney Alves de Oliveira",
-      "Williane Costa Ferreira"
+      "Zulma Elizabete de Freitas Madruga"
+    ],
+    [
+      "Cirléia Pereira Barbosa",
+      "Celi Espasandin Lopes"
     ],
     [
       "Claudia Witt",
@@ -608,16 +582,6 @@
     [
       "Andréia Friske",
       "Maurício Rosa"
-    ],
-    [
-      "Patrícia Costa Ginez",
-      "Rogério Fernando Pires"
-    ],
-    [
-      "Zulma Elizabete de Freitas Madruga"
-    ],
-    [
-      "Raquel Gomes de Oliveira"
     ],
     [
       "Wagner Monger",
@@ -634,18 +598,8 @@
       "Beatriz Maria Pereira Maia"
     ],
     [
-      "Tamillis Silva de Andrade Vigas",
-      "Jurema Lindote Botelho Peixoto"
-    ],
-    [
       "Araceli Gonçalves",
       "Morgana Scheller"
-    ],
-    [
-      "Antônio Vieira Lima Junior",
-      "Stéfany Silva Araújo",
-      "Victor Coelho Oliveira",
-      "José Milton Lopes Pinheiro"
     ],
     [
       "Guilherme Santos Souza",
@@ -659,18 +613,28 @@
       "Raquel Milani"
     ],
     [
+      "Antônio Vieira Lima Junior",
+      "Stéfany Silva Araújo",
+      "Victor Coelho Oliveira",
+      "José Milton Lopes Pinheiro"
+    ],
+    [
+      "Claudinei Camargo Sant'Ana",
+      "Irani Parolin Sant'Ana"
+    ],
+    [
       "Renata Passos Machado Vieira",
       "Francisco Regis Vieira Alves",
       "Paula Maria Machado Cruz Catarino"
     ],
     [
+      "Tamillis Silva de Andrade Vigas",
+      "Jurema Lindote Botelho Peixoto"
+    ],
+    [
       "Mylena Simões Campos",
       "Renan Oliveira Altoé",
       "Lais Scorziello Feitosa da Silva"
-    ],
-    [
-      "Claudinei Camargo Sant'Ana",
-      "Irani Parolin Sant'Ana"
     ],
     [
       "Sezilia Toledo",
@@ -681,16 +645,16 @@
       "Diogo Alves de Faria Reis"
     ],
     [
+      "Gislaine Aparecida Puton Zortêa",
+      "Klinger Teodoro Ciríaco"
+    ],
+    [
       "Lucas Rocha Santos",
       "Mariana Lima Matos",
       "Irani Parolin Sant’Ana"
     ],
     [
-      "Marcelo Carlos de Proença"
-    ],
-    [
-      "Gislaine Aparecida Puton Zortêa",
-      "Klinger Teodoro Ciríaco"
+      "João Socorro Pinheiro Ferreira"
     ],
     [
       "Zenildo Santos",
@@ -698,23 +662,21 @@
       "Lúcio Campos Costa"
     ],
     [
-      "João Socorro Pinheiro Ferreira"
+      "Marcelo Carlos de Proença"
+    ],
+    [
+      "gabriela dos santos barbosa"
+    ],
+    [
+      "Fernando Frei"
     ],
     [
       "Pâmela Amado Tristão",
       "Andressa Crema Correa"
     ],
     [
-      "gabriela dos santos barbosa"
-    ],
-    [
       "Gisele Pereira Oliveira",
       "Ana Carolina Costa Pereira"
-    ],
-    [
-      "Carla Camargo Fonseca",
-      "Gabriele Bonotto Silva",
-      "Vera Lucia Felicetti"
     ],
     [
       "Eurivalda Ribeiro dos Santos Santana",
@@ -723,21 +685,17 @@
       "Zulma Elizabete de Freitas Madruga"
     ],
     [
-      "Fernando Frei"
-    ],
-    [
-      "Ana Maria Mota Oliveira Scalabrin",
-      "Solange Mussato"
+      "Carla Camargo Fonseca",
+      "Gabriele Bonotto Silva",
+      "Vera Lucia Felicetti"
     ],
     [
       "Cleverton Eugênio do Carmo",
       "Teresa Cristina Etcheverria"
     ],
     [
-      "Arthur Gonçalves Machado",
-      "Franciene Ribeiro",
-      "Walkiria Guimarães",
-      "Maria Dulce Matos"
+      "Ana Maria Mota Oliveira Scalabrin",
+      "Solange Mussato"
     ],
     [
       "Milton Rosa",
@@ -749,9 +707,14 @@
       "Tânia Stella Bassoi"
     ],
     [
-      "Bruna Mendes Muniz",
-      "Klinger Teodoro Ciríaco",
-      "Harryson Júnio Lessa Gonçalves"
+      "Arthur Gonçalves Machado",
+      "Franciene Ribeiro",
+      "Walkiria Guimarães",
+      "Maria Dulce Matos"
+    ],
+    [
+      "Wellington José de Arruda Melo",
+      "Rosinalda Aurora de Melo Teles"
     ],
     [
       "Rosalide Carvalho de Sousa",
@@ -759,23 +722,40 @@
       "Francisca Cláudia Fernandes Fontenele"
     ],
     [
+      "Bruna Mendes Muniz",
+      "Klinger Teodoro Ciríaco",
+      "Harryson Júnio Lessa Gonçalves"
+    ],
+    [
+      "Guilherme Wagner"
+    ],
+    [
+      "Leandro Blass",
+      "Valesca Brasil Irala"
+    ],
+    [
       "Aline Amanda Sodré",
       "Marger da Conceição Ventura Viana",
       "Edmilson Minoru Torisu"
     ],
     [
-      "Wellington José de Arruda Melo",
-      "Rosinalda Aurora de Melo Teles"
+      "Américo Junior Nunes da Silva"
     ],
     [
       "Paulo Roberto Castor Maciel"
     ],
     [
-      "Américo Junior Nunes da Silva"
+      "Ivanise Gomes Arcanjo Diniz",
+      "Joubert Lima Ferreira",
+      "André Pereira da Costa"
     ],
     [
-      "Leandro Blass",
-      "Valesca Brasil Irala"
+      "Regina Célia Grando",
+      "Jaqueline Aparecida Foratto Lixandrão Santos"
+    ],
+    [
+      "Francisco Hemerson Brito da Silva",
+      "Ana Carolina Costa Pereira"
     ],
     [
       "Joyce Evellyn da Silva Cruz",
@@ -784,41 +764,9 @@
       "Fábio Alexandre Borges"
     ],
     [
-      "Guilherme Wagner"
-    ],
-    [
-      "Regina Célia Grando",
-      "Jaqueline Aparecida Foratto Lixandrão Santos"
-    ],
-    [
-      "Ivanise Gomes Arcanjo Diniz",
-      "Joubert Lima Ferreira",
-      "André Pereira da Costa"
-    ],
-    [
-      "Rosane Mendes Barbosa",
-      "Ronaldo Barros Ripardo"
-    ],
-    [
-      "Francisco Hemerson Brito da Silva",
-      "Ana Carolina Costa Pereira"
-    ],
-    [
       "Anderson Rodrigo Oliveira da Silva",
       "Bruno Lopes Oliveira da Silva",
       "Fernando Emílio Leite de ALmeida"
-    ],
-    [
-      "Milagros Elena Rodriguez"
-    ],
-    [
-      "Lauro Chagas e Sá",
-      "Organdi Mongin Rovetta",
-      "Davi Ribeiro Novaes Welsing"
-    ],
-    [
-      "Evandro Tortora",
-      "Nelson Antonio Pirola"
     ],
     [
       "José Gleison Alves da Silva",
@@ -826,12 +774,20 @@
       "Daniel Brandão Menezes"
     ],
     [
-      "Cidimar Andreatta",
-      "Norma Suely Gomes Allevato"
+      "Milagros Elena Rodriguez"
+    ],
+    [
+      "Rosane Mendes Barbosa",
+      "Ronaldo Barros Ripardo"
     ],
     [
       "Caroline Almeida de Souza",
       "Rogério Ferreira da Fonseca"
+    ],
+    [
+      "Lauro Chagas e Sá",
+      "Organdi Mongin Rovetta",
+      "Davi Ribeiro Novaes Welsing"
     ],
     [
       "Jocelyn D. Pallauta",
@@ -839,8 +795,12 @@
       "Clarissa Coragem Ballejo"
     ],
     [
-      "Claudia Alves de Castro",
-      "Edda Curi"
+      "Evandro Tortora",
+      "Nelson Antonio Pirola"
+    ],
+    [
+      "Cidimar Andreatta",
+      "Norma Suely Gomes Allevato"
     ],
     [
       "Barbara Corominas Valério"
@@ -849,17 +809,11 @@
       "Fabio Antunes Brun de Campos"
     ],
     [
-      "Vanessa Neto",
-      "Rodrigo Batista"
+      "Claudia Alves de Castro",
+      "Edda Curi"
     ],
     [
       "Norma Suely Gomes Allevato"
-    ],
-    [
-      "Marcelo Carlos de Proença"
-    ],
-    [
-      "Reinaldo Feio Lima"
     ],
     [
       "José Carlos Pinto Leivas"
@@ -868,9 +822,8 @@
       "Fredy Enrique González"
     ],
     [
-      "Eliane Bihuna de Azevedo",
-      "Pedro Manuel Baptista Palhares",
-      "Elisandra Bar de Figueiredo"
+      "Vanessa Neto",
+      "Rodrigo Batista"
     ],
     [
       "Fabiane Fischer Figueiredo",
@@ -878,7 +831,18 @@
       "Leandro Antonio Recalcati"
     ],
     [
-      "Luiz Otavio Rodrigues Mendes",
+      "Reinaldo Feio Lima"
+    ],
+    [
+      "Eliane Bihuna de Azevedo",
+      "Pedro Manuel Baptista Palhares",
+      "Elisandra Bar de Figueiredo"
+    ],
+    [
+      "Sandra Cristina Martini Rostirola",
+      "Ivanete Zuchi Siple"
+    ],
+    [
       "Marcelo Carlos de Proença"
     ],
     [
@@ -886,8 +850,8 @@
       "José Carrillo Yáñez"
     ],
     [
-      "Sandra Cristina Martini Rostirola",
-      "Ivanete Zuchi Siple"
+      "Luiz Otavio Rodrigues Mendes",
+      "Marcelo Carlos de Proença"
     ],
     [
       "Adriano Alves da Silveira",
@@ -898,12 +862,24 @@
       "Ana Barbosa"
     ],
     [
+      "Claudia Vieira de Vargas",
+      "Fabiane Cristina Hopner Noguti"
+    ],
+    [
+      "Vânia Bolzan Denardi",
+      "Eleni Bisognin"
+    ],
+    [
+      "Kátia Gabriela Moreira",
+      "Adair Mendes Nacarato"
+    ],
+    [
       "Celi Espasandin Lopes",
       "Rogério Ramos Socha"
     ],
     [
-      "Susana Machado Ferreira",
-      "Vanilde Bisognin"
+      "Flavia Cristine Fernandes Souto",
+      "Ettiène Guérios"
     ],
     [
       "Thiarla Xavier Dal-Cin Zanon",
@@ -911,28 +887,12 @@
       "Sabrina Carvalho Silva"
     ],
     [
-      "Vânia Bolzan Denardi",
-      "Eleni Bisognin"
-    ],
-    [
-      "Flavia Cristine Fernandes Souto",
-      "Ettiène Guérios"
-    ],
-    [
-      "Claudia Vieira de Vargas",
-      "Fabiane Cristina Hopner Noguti"
-    ],
-    [
-      "Kátia Gabriela Moreira",
-      "Adair Mendes Nacarato"
+      "Susana Machado Ferreira",
+      "Vanilde Bisognin"
     ],
     [
       "Janaína Poffo Possamai",
       "Viviane Clotilde da Silva"
-    ],
-    [
-      "Rosana Nogueira de Lima",
-      "Maria Elisa Esteves Lopes Galvão"
     ],
     [
       "Edna Mataruco Duarte",
@@ -949,13 +909,14 @@
       "Silvanio Andrade"
     ],
     [
+      "Rosana Nogueira de Lima",
+      "Maria Elisa Esteves Lopes Galvão"
+    ],
+    [
       "Paulo Martins Afonso",
       "Dolores Alveirinho",
       "José Filipe",
       "Nuno Santos"
-    ],
-    [
-      "Douglas da Silva Tinti"
     ],
     [
       "Patrícia Santos da Silva",
@@ -966,16 +927,6 @@
       "Marli Eliza Dalmazo Afonso de André"
     ],
     [
-      "Maria Cecília Pereira Soares",
-      "Ana Cristina Ferreira"
-    ],
-    [
-      "Márcio Urel Rodrigues",
-      "Acelmo Jesus Brito",
-      "Allan Kardec Messias Silva",
-      "Rael Fernandes Turatti"
-    ],
-    [
       "Wilson Souza Costa Júnior",
       "Ana Paula Perovano"
     ],
@@ -984,36 +935,32 @@
       "Francisco Régis Vieira Alves"
     ],
     [
-      "Aldo Peres Campos Lopes",
-      "Frederico da Silva Reis"
-    ],
-    [
-      "Douglas da Silva Tinti"
+      "Márcio Urel Rodrigues",
+      "Acelmo Jesus Brito",
+      "Allan Kardec Messias Silva",
+      "Rael Fernandes Turatti"
     ],
     [
       "Daniel Jesus Silva"
+    ],
+    [
+      "Aldo Peres Campos Lopes",
+      "Frederico da Silva Reis"
     ],
     [
       "Franklin Fernando Ferreira Pachêco",
       "Gisele Ferreira Pachêco"
     ],
     [
-      "Juliana França Viol Paulin",
-      "Rosana Giaretta Sguerra Miskulin"
-    ],
-    [
-      "Natalia Nascimben Delmondi",
-      "Vinícius Pazuch"
-    ],
-    [
-      "Maria Teresa Merino Ruz Mastroianni",
-      "Gerson Pastre Oliveira"
+      "Maria Cecília Pereira Soares",
+      "Ana Cristina Ferreira"
     ],
     [
       "José Carlos Pinto Leivas"
     ],
     [
-      "Débora Vieira de Souza"
+      "Natalia Nascimben Delmondi",
+      "Vinícius Pazuch"
     ],
     [
       "Franklin Fernando Ferreira Pachêco",
@@ -1022,33 +969,34 @@
     ],
     [
       "Rogério Marques Ribeiro",
-      "Ademir Donizeti Caldeira",
-      "Douglas da Silva Tinti"
+      "Arthur Belford Powell"
     ],
     [
-      "Rogério Marques Ribeiro",
-      "Arthur Belford Powell"
+      "Juliana França Viol Paulin",
+      "Rosana Giaretta Sguerra Miskulin"
+    ],
+    [
+      "Débora Vieira de Souza"
+    ],
+    [
+      "Maria Teresa Merino Ruz Mastroianni",
+      "Gerson Pastre Oliveira"
     ],
     [
       "Jhony Alexander Villa-Ochoa",
       "Edvonete Souza de Alencar"
     ],
     [
-      "Ademir Donizeti Caldeira",
-      "Maria Carolina Machado Magnus",
-      "Claudia Glavam Duarte"
+      "Laynara dos Reis Santos Zontini",
+      "Dionísio Burak"
+    ],
+    [
+      "Zulma Elizabete de Freitas Madruga",
+      "Morgana Scheller"
     ],
     [
       "Regis Forner",
       "Ana Paula dos Santos Malheiros"
-    ],
-    [
-      "Celenita Ferreira Marcondes",
-      "Vantielen da Silva Silva"
-    ],
-    [
-      "Franciele Piaia",
-      "Vantielen da Silva Silva"
     ],
     [
       "Silvana Costa Silva",
@@ -1060,40 +1008,21 @@
       "Paulo Cesar Oliveira"
     ],
     [
-      "Laynara dos Reis Santos Zontini",
-      "Dionísio Burak"
+      "Ademir Donizeti Caldeira",
+      "Maria Carolina Machado Magnus",
+      "Claudia Glavam Duarte"
     ],
     [
-      "Zulma Elizabete de Freitas Madruga",
-      "Morgana Scheller"
+      "Celenita Ferreira Marcondes",
+      "Vantielen da Silva Silva"
     ],
     [
-      "Ravelle Souza de Jesus",
-      "Ivanil Miranda dos Santos",
-      "Jaqueline de Souza Pereira Grilo"
-    ],
-    [
-      "Ana Lúcia Manrique",
-      "Geraldo Eustáquio Moreira",
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Cristina de Jesus Teixeira",
-      "Thiago Ferreira Paiva",
-      "Geraldo Eustáquio Moreira"
+      "Franciele Piaia",
+      "Vantielen da Silva Silva"
     ],
     [
       "Camila Ehrat Dias",
       "Maria Lucia Panossian"
-    ],
-    [
-      "Marcia Cristina Ribas",
-      "Marcio André Martins"
-    ],
-    [
-      "Joana Tinoco",
-      "Maria Helena Martinho",
-      "Anabela Cruz Santos"
     ],
     [
       "Adriela Maria Noronha",
@@ -1104,24 +1033,39 @@
       "Ana Lúcia Manrique"
     ],
     [
+      "Joana Tinoco",
+      "Maria Helena Martinho",
+      "Anabela Cruz Santos"
+    ],
+    [
       "Gabriela Gomes Ribeiro",
       "Eliane Matesco Cristovão"
+    ],
+    [
+      "Cristina de Jesus Teixeira",
+      "Thiago Ferreira Paiva",
+      "Geraldo Eustáquio Moreira"
+    ],
+    [
+      "Marcia Cristina Ribas",
+      "Marcio André Martins"
+    ],
+    [
+      "Ravelle Souza de Jesus",
+      "Ivanil Miranda dos Santos",
+      "Jaqueline de Souza Pereira Grilo"
+    ],
+    [
+      "Amanda Chaves Santos",
+      "Ana Paula Perovano"
     ],
     [
       "Joeanne Neves Fraz"
     ],
     [
-      "Lygianne Batista Vieira",
-      "Geraldo Eustáquio Moreira"
-    ],
-    [
       "Maria Bethânia Sardeiro dos Santos",
       "Maria Euripedes de Souza Dias",
       "Jessyca Rodrigues de Castro"
-    ],
-    [
-      "Amanda Chaves Santos",
-      "Ana Paula Perovano"
     ],
     [
       "Karina Aguiar Alves",
@@ -1130,39 +1074,32 @@
       "Marcia Aguiar"
     ],
     [
-      "Lucas Diego Antunes Barbosa",
-      "Barbara Lutaif Bianchini",
-      "Gabriel Loureiro de Lima"
-    ],
-    [
       "Wagner Marcelo Pommer"
     ],
     [
-      "Sergio Lorenzato",
-      "Rosana Prado Biani",
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Alfonso Jiménez Espinosa",
-      "Sergio Lorenzato"
+      "Lygianne Batista Vieira",
+      "Geraldo Eustáquio Moreira"
     ],
     [
       "André Luiz Paulilo"
     ],
     [
+      "Lucas Diego Antunes Barbosa",
+      "Barbara Lutaif Bianchini",
+      "Gabriel Loureiro de Lima"
+    ],
+    [
       "Moysés Gonçalves Siqueira Filho"
-    ],
-    [
-      "Pedro Paulo Salles"
-    ],
-    [
-      "Antonio José Lopes"
     ],
     [
       "Sérgio Candido de Gouveia Neto"
     ],
     [
-      "Inocêncio Fernandes Balieiro Filho"
+      "Pedro Paulo Salles"
+    ],
+    [
+      "Alfonso Jiménez Espinosa",
+      "Sergio Lorenzato"
     ],
     [
       "Cristiane Coppe de Oliveira"
@@ -1173,23 +1110,17 @@
       "Alexandre Herculano Ferreira Freitas"
     ],
     [
-      "Aldiléia da Silva Souza",
-      "Geraldo Eustáquio Moreira"
-    ],
-    [
       "Flávia de Fatima Santos Silva"
-    ],
-    [
-      "Rosana Prado Biani",
-      "Conceição Aparecida Cruz Longo",
-      "Sergio Lorenzato"
-    ],
-    [
-      "Isaura Aparecida Torse de Almeida"
     ],
     [
       "André Pereira da Costa",
       "Marilene Rosa dos Santos"
+    ],
+    [
+      "Antonio José Lopes"
+    ],
+    [
+      "Inocêncio Fernandes Balieiro Filho"
     ],
     [
       "Cidimar Andreatta",
@@ -1197,19 +1128,33 @@
       "Antonio Henrique Pinto"
     ],
     [
-      "Douglas da Silva Tinti"
+      "Isaura Aparecida Torse de Almeida"
     ],
     [
-      "Jaqueline Ferreira Silva",
-      "Bárbara Cristina Moreira Sicardi Sicardi Nakayama"
+      "Aldiléia da Silva Souza",
+      "Geraldo Eustáquio Moreira"
     ],
     [
       "Gilmara Aparecida da Silva",
       "Nelson Antonio Pirola"
     ],
     [
+      "Rosana Prado Biani",
+      "Conceição Aparecida Cruz Longo",
+      "Sergio Lorenzato"
+    ],
+    [
       "Nilton Silveira Domingues",
       "Marcelo de Carvalho Borba"
+    ],
+    [
+      "Loretta M. Grisi Dicker",
+      "Muteb M. Alqahtani",
+      "Arthur B. Powell"
+    ],
+    [
+      "Jaqueline Ferreira Silva",
+      "Bárbara Cristina Moreira Sicardi Sicardi Nakayama"
     ],
     [
       "Paulo Wichnoski",
@@ -1219,13 +1164,27 @@
       "Allan Gomes Santos"
     ],
     [
+      "Jenny Patricia Acevedo Rincon"
+    ],
+    [
+      "Franklin Fernando Ferreira Pachêco",
+      "Gisele Ferreira Pachêco"
+    ],
+    [
+      "Elenilton Vieira Godoy",
+      "Cecy Leite Alves Carreta"
+    ],
+    [
       "Cristiane Lopes de Carvalho Pinto",
       "Marlos Gomes de Albuquerque",
       "Lucinalva Aparecida Neves"
     ],
     [
-      "Elenilton Vieira Godoy",
-      "Cecy Leite Alves Carreta"
+      "Júlio César Augusto Valle"
+    ],
+    [
+      "Kátia Martins Rodrigues",
+      "Laurizete Ferragut Passos"
     ],
     [
       "Keli Cristina Conti",
@@ -1233,37 +1192,12 @@
       "Danielle Alves Martins"
     ],
     [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Loretta M. Grisi Dicker",
-      "Muteb M. Alqahtani",
-      "Arthur B. Powell"
-    ],
-    [
-      "Jenny Patricia Acevedo Rincon"
-    ],
-    [
-      "Júlio César Augusto Valle"
-    ],
-    [
-      "Carlos Ricardo Bifi"
-    ],
-    [
-      "Franklin Fernando Ferreira Pachêco",
-      "Gisele Ferreira Pachêco"
-    ],
-    [
       "Américo Junior Nunes da Silva",
       "Herminia Kelly Barros",
       "Ilvanete dos Santos Souza"
     ],
     [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Kátia Martins Rodrigues",
-      "Laurizete Ferragut Passos"
+      "Carlos Ricardo Bifi"
     ],
     [
       "Márcio Urel Rodrigues",
@@ -1278,17 +1212,21 @@
       "Ana Lúcia Manrique"
     ],
     [
-      "Loreni Aparecida Ferreira Baldini",
-      "Júlio Cézar Rodrigues de Oliveira",
-      "Márcia Cristina de Costa Trindade Cyrino"
+      "Leila Pessôa Da Costa",
+      "Regina Maria Pavanello"
+    ],
+    [
+      "Emerson de Souza Silva",
+      "Renata Prenstteter Gama"
     ],
     [
       "Paulo Henrique Rodrigues",
       "Márcia Cristina de Costa Trindade Cyrino"
     ],
     [
-      "Emerson de Souza Silva",
-      "Renata Prenstteter Gama"
+      "Loreni Aparecida Ferreira Baldini",
+      "Júlio Cézar Rodrigues de Oliveira",
+      "Márcia Cristina de Costa Trindade Cyrino"
     ],
     [
       "João Paulo Attie",
@@ -1296,32 +1234,18 @@
       "Tiago de Jesus Souza"
     ],
     [
-      "Leila Pessôa Da Costa",
-      "Regina Maria Pavanello"
+      "Keli Cristina Conti"
+    ],
+    [
+      "José Marcos Lopes"
     ],
     [
       "Fernando Luís Pereira Fernandes"
     ],
     [
-      "Keli Cristina Conti"
-    ],
-    [
       "Zionice Rodrigues",
       "Luciane de Castro Quintiliano",
       "Helen de Freitas Santos"
-    ],
-    [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Marisa da Silva Dias",
-      "Elaine Matesco Cristovão"
-    ],
-    [
-      "José Marcos Lopes"
     ],
     [
       "André Gustavo Oliveira da Silva",
@@ -1335,24 +1259,15 @@
       "Eveline Vieira Costa"
     ],
     [
-      "Claudia Lisete Oliveira Groenwald",
-      "Clarossa de Assis Olgin"
-    ],
-    [
       "Edelweis José Tavares Barbosa",
       "Clovis Gomes da Silva Junio"
     ],
     [
+      "Claudia Lisete Oliveira Groenwald",
+      "Clarossa de Assis Olgin"
+    ],
+    [
       "Claudineia Helena Recco"
-    ],
-    [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Miriam Cardoso Utsumi"
     ],
     [
       "Selma Rosana Santiago Manechine",
@@ -1375,15 +1290,6 @@
       "Claudineia Helena Recco"
     ],
     [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Douglas da Silva Tinti"
-    ],
-    [
-      "Miriam Cardoso Utsumi"
-    ],
-    [
       "Carlos Eduardo Félix Correia"
     ],
     [
@@ -1393,43 +1299,23 @@
       "Edna Maura Zuffi"
     ],
     [
-      "Marco Aurélio Kistemann Jr."
-    ],
-    [
       "Sara Domenici"
-    ],
-    [
-      "Celi S. Lopes"
     ],
     [
       "Adair Mendes Nacarato"
     ],
     [
-      "Maria José de Castro Silva"
+      "Marco Aurélio Kistemann Jr."
     ],
     [
       "Rodrigo Lopes de Oliveira"
     ],
     [
-      "Conceição Aparecida Parateli",
-      "Eliane Matesco Cristovão",
-      "Regina Célia Mussi Pontes",
-      "Maria das Graças dos Santos Abreu"
-    ],
-    [
-      "Joni de Almeida Amorim",
-      "Carlos Machado"
+      "Maria José de Castro Silva"
     ],
     [
       "Luciana Parente Rocha",
       "Maria Tereza Menezes Freitas"
-    ],
-    [
-      "Rúbia Barcelos Amaral Zulatto"
-    ],
-    [
-      "Maria Cláudia Cabrini Grácio",
-      "Ely Francina Tannuri de Oliveira"
     ],
     [
       "Edna Maura Zuffi",
@@ -1447,14 +1333,11 @@
       "Rosana Giaretta Sguerra Miskulin"
     ],
     [
-      "Leila Barbosa Oliveira",
-      "Anna Regina Lanner de Moura"
+      "Joni de Almeida Amorim",
+      "Carlos Machado"
     ],
     [
-      "Eurípedes Alves da Silva"
-    ],
-    [
-      "Maria Ângela Miorim"
+      "Rúbia Barcelos Amaral Zulatto"
     ],
     [
       "Maria Dolores Ceccato Mendes"
@@ -1462,6 +1345,10 @@
     [
       "Lourdes De La Rosa Onuchic",
       "Luciene Souto Botta"
+    ],
+    [
+      "Maria Cláudia Cabrini Grácio",
+      "Ely Francina Tannuri de Oliveira"
     ],
     [
       "Telma de Souza Gracias",
@@ -1472,10 +1359,7 @@
       "Eurípedes Alves da Silva"
     ],
     [
-      "Hygino H. Domingues"
-    ],
-    [
-      "Marcos Luiz Lourenço"
+      "Maria Ângela Miorim"
     ],
     [
       "Ruy Madsen Barbosa",
@@ -1486,11 +1370,23 @@
       "Marcos Luiz Lourenço"
     ],
     [
-      "Antonio Miguel",
-      "Maria Ângela Miorim"
+      "Manoel Oriosvaldo de Moura"
     ],
     [
-      "Manoel Oriosvaldo de Moura"
+      "Hygino H. Domingues"
+    ],
+    [
+      "Conceição Aparecida Parateli",
+      "Eliane Matesco Cristovão",
+      "Regina Célia Mussi Pontes",
+      "Maria das Graças dos Santos Abreu"
+    ],
+    [
+      "Leila Barbosa Oliveira",
+      "Anna Regina Lanner de Moura"
+    ],
+    [
+      "Marcos Luiz Lourenço"
     ],
     [
       "Maria Amabile Mansutti"
@@ -1505,26 +1401,16 @@
       "Romulo Campos Lins"
     ],
     [
-      "Rogério Marques Ribeiro",
-      "Armando Traldi Júnior",
-      "Valéria Ostete Jannis Luchetta"
-    ],
-    [
-      "Wagner Rodrigues Valente"
-    ],
-    [
-      "Priscila Bernardo Martins",
-      "Adair Mendes Nacarato",
-      "Vanessa Dias Moretti"
-    ],
-    [
       "Enio Freire de Paula",
       "Vinícius Pazuch",
       "Lucas Carato Mazzi"
     ],
     [
-      "Cármen Lúcia Brancaglion Passos",
-      "Everaldo Gomes Leandro"
+      "Júlio César Augusto do Valle",
+      "Maria Luiza Rocha Bueno"
+    ],
+    [
+      "Wagner Rodrigues Valente"
     ],
     [
       "Celi Espasandin Lopes",
@@ -1532,42 +1418,33 @@
       "Suzete Souza Borelli"
     ],
     [
-      "Wellington Pereira das Virgens Virgens",
-      "Maria do Carmo de Sousa",
-      "Júlio Cesar Augusto do Valle"
-    ],
-    [
-      "Clarissa de Assis Olgin",
-      "Deise Aparecida Peralta",
-      "Flavio Augusto Leite Taveira"
-    ],
-    [
       "Cristiane Klöpsch",
       "Vinicio de Macedo Santos"
     ],
     [
-      "Júlio César Augusto do Valle",
-      "Maria Luiza Rocha Bueno"
+      "Rogério Marques Ribeiro",
+      "Armando Traldi Júnior",
+      "Valéria Ostete Jannis Luchetta"
+    ],
+    [
+      "Cármen Lúcia Brancaglion Passos",
+      "Everaldo Gomes Leandro"
     ],
     [
       "Alessandra Carvalho Teixeira"
     ],
     [
-      "Edicléia Xavier da Costa",
-      "Elenilton Vieira Godoy"
-    ],
-    [
-      "Douglas Silva Santos",
-      "Janaina Farias de Ornellas",
-      "Carla Cristina Pompeu"
-    ],
-    [
-      "Joana Inês Novaes",
-      "Harryson Júnio Lessa Gonçalves"
+      "Priscila Bernardo Martins",
+      "Adair Mendes Nacarato",
+      "Vanessa Dias Moretti"
     ],
     [
       "Ricardo Gomes Assunção",
       "Marcio Antonio da Silva"
+    ],
+    [
+      "Joana Inês Novaes",
+      "Harryson Júnio Lessa Gonçalves"
     ],
     [
       "Roberta de Oliveira Barbosa",
@@ -1577,23 +1454,25 @@
       "Deise Aparecida Peralta"
     ],
     [
-      "Carolina Rodrigues Dias",
-      "Clarissa de Assis Olgin"
-    ],
-    [
-      "Tamires Torres da Purificação",
-      "Cleber Dias da Costa Neto"
-    ],
-    [
-      "Jonata Souza dos Santos",
-      "Claudia Lisete Oliveira Groenwald"
+      "Edicléia Xavier da Costa",
+      "Elenilton Vieira Godoy"
     ],
     [
       "Vanessa Neto",
       "Daniele Costa Silva"
     ],
     [
+      "Douglas Silva Santos",
+      "Janaina Farias de Ornellas",
+      "Carla Cristina Pompeu"
+    ],
+    [
       "Ana Lúcia Braz Dias"
+    ],
+    [
+      "Wellington Pereira das Virgens Virgens",
+      "Maria do Carmo de Sousa",
+      "Júlio Cesar Augusto do Valle"
     ],
     [
       "Rúbia Barcelos Amaral",
@@ -1602,22 +1481,29 @@
       "Luciana Vieira Andrade"
     ],
     [
+      "Tamires Torres da Purificação",
+      "Cleber Dias da Costa Neto"
+    ],
+    [
+      "Carolina Rodrigues Dias",
+      "Clarissa de Assis Olgin"
+    ],
+    [
       "Iolanda Marcia de Souza",
       "Ana Paula Perovano",
       "Gilberto Januario"
     ],
     [
-      "Taune Pacheco",
-      "Marcio Antonio da Silva",
-      "Ana Carolina Rosa Rodrigues de Freitas"
-    ],
-    [
-      "Júlio César Augusto do Valle",
-      "Ana Paula dos Santos Malheiros"
+      "Jonata Souza dos Santos",
+      "Claudia Lisete Oliveira Groenwald"
     ],
     [
       "Silvana Duarte Pereira",
       "Vanessa Lucena Camargo de Almeida Klaus"
+    ],
+    [
+      "Johnny Nazareth dos Santos",
+      "Denner Dias Barros"
     ],
     [
       "Manuella Carrijo"
@@ -1629,45 +1515,28 @@
       "Clodis Boscarioli"
     ],
     [
-      "Fabio Alves Menecucci",
-      "Lucas Carato Mazzi"
-    ],
-    [
-      "Johnny Nazareth dos Santos",
-      "Denner Dias Barros"
+      "Lucas Martini",
+      "Elenilton Vieira Godoy",
+      "Edicleia Xavier da Costa"
     ],
     [
       "Lahis Braga Souza"
     ],
     [
-      "Regina Helena de Oliveira Lino Franchi",
-      "Karen Ramos"
+      "Fabio Alves Menecucci",
+      "Lucas Carato Mazzi"
     ],
     [
-      "Ana Carolina Faustino",
-      "Amanda Queiroz Moura",
-      "Raquel Milani"
+      "Taune Pacheco",
+      "Marcio Antonio da Silva",
+      "Ana Carolina Rosa Rodrigues de Freitas"
     ],
     [
       "Marília Zabel",
       "Ana Paula dos Santos Malheiros"
     ],
     [
-      "Lucas Martini",
-      "Elenilton Vieira Godoy",
-      "Edicleia Xavier da Costa"
-    ],
-    [
       "Douglas Ribeiro Guimarães"
-    ],
-    [
-      "Filipe Santos Fernandes",
-      "Trinidad Vaccarezza",
-      "Meiriele Cruz"
-    ],
-    [
-      "Celi Espasandin Lopes",
-      "Solange Loureiro Pozzuto"
     ],
     [
       "Endrika Leal Soares",
@@ -1678,17 +1547,25 @@
       "Zaqueu Vieira Oliveira"
     ],
     [
-      "Maria Luiza Rocha Bueno",
-      "Júlio César Augusto do Valle"
+      "Celi Espasandin Lopes",
+      "Solange Loureiro Pozzuto"
+    ],
+    [
+      "Ana Carolina Faustino",
+      "Amanda Queiroz Moura",
+      "Raquel Milani"
+    ],
+    [
+      "Regina Helena de Oliveira Lino Franchi",
+      "Karen Ramos"
     ],
     [
       "Zeca Catuco André Quimuanga",
       "Vieira dos Santos Bunga"
     ],
     [
-      "Renan Pereira Santos",
-      "Claudinei de Camargo Sant'Ana",
-      "Irani Parolin Sant'Ana"
+      "Maria Luiza Rocha Bueno",
+      "Júlio César Augusto do Valle"
     ],
     [
       "Leonardo Lira de Brito",
@@ -1699,24 +1576,38 @@
       "Angelica da Fontoura Garcia Silva"
     ],
     [
-      "Zenildo Santos",
-      "Lúcio Campos Costa"
-    ],
-    [
       "Jacielma Dantas dos Santos",
       "Carloney Alves de Oliveira"
+    ],
+    [
+      "Renan Pereira Santos",
+      "Claudinei de Camargo Sant'Ana",
+      "Irani Parolin Sant'Ana"
+    ],
+    [
+      "Filipe Santos Fernandes",
+      "Trinidad Vaccarezza",
+      "Meiriele Cruz"
     ],
     [
       "Gilmar Bezerra de Lima",
       "Maria Alves de Azerêdo"
     ],
     [
+      "Adriana Nogueira de Oliveira",
+      "Ana Carolina Costa Pereira"
+    ],
+    [
+      "Erika Capelato",
+      "Gabriela Cervantes Zubirías"
+    ],
+    [
       "Luana Maria Santos da Silva Ayres",
       "Tanise Paula Novello"
     ],
     [
-      "Adriana Nogueira de Oliveira",
-      "Ana Carolina Costa Pereira"
+      "Angelica Aparecida Pacheco",
+      "Janine Freitas Mota"
     ],
     [
       "Bruno Cesar Alonso",
@@ -1724,17 +1615,13 @@
       "Luciano Carvalhais Gomes"
     ],
     [
-      "Priscila de Castro Barros Greca",
-      "Karina Alessandra Pessoa da Silva"
-    ],
-    [
       "Célia Aparecida Dias Ferreira Louzada",
       "Marcio Urel Rodrigues",
       "Maria Elizabete Rambo Kochhann"
     ],
     [
-      "Angelica Aparecida Pacheco",
-      "Janine Freitas Mota"
+      "Zenildo Santos",
+      "Lúcio Campos Costa"
     ],
     [
       "Gabriel Amancio Alves",
@@ -1742,16 +1629,20 @@
       "Beatriz Fernanda Litoldo"
     ],
     [
-      "Erika Capelato",
-      "Gabriela Cervantes Zubirías"
+      "Paulo Sérgio Teixeira do Prado"
     ],
     [
-      "Paulo Sérgio Teixeira do Prado"
+      "Priscila de Castro Barros Greca",
+      "Karina Alessandra Pessoa da Silva"
     ],
     [
       "Dione Alves de Almeida",
       "Shirley Patrícia Nogueira de Castro e Almeida",
       "Mônica Maria Teixeira Amorim"
+    ],
+    [
+      "Jussara Santos Rosa",
+      "Fernando Frei"
     ],
     [
       "Klinger Teodoro Ciríaco",
@@ -1763,18 +1654,9 @@
       "Cristine Gusmão"
     ],
     [
-      "Luciano Pereira da Silva",
-      "Valdomiro Pinheiro Teixeira Junior",
-      "Marcelo de Sousa Oliveira"
-    ],
-    [
       "Handerson Ferreira Gonçalves",
       "Flavio Augusto Leite Taveira",
       "Deise Aparecida Peralta"
-    ],
-    [
-      "Jussara Santos Rosa",
-      "Fernando Frei"
     ],
     [
       "Renata de Luca Gallo",
@@ -1786,9 +1668,13 @@
       "Flaviana dos Santos Silva"
     ],
     [
-      "Salvador Cardoso Silva Muniz",
-      "Márcia Cristina de Costa Trindade Cyrino",
-      "Fábio Alexandre Borges"
+      "Cecília Elenir dos Santos Rocha",
+      "Maria Cecília Pereira Santarosa",
+      "Carla Beatriz Spohr"
+    ],
+    [
+      "Felipe de Almeida Costa",
+      "Gilberto Januario"
     ],
     [
       "Klinger Teodoro Ciríaco",
@@ -1796,26 +1682,39 @@
       "Jéssica Costa de Meneses da Cruz"
     ],
     [
-      "Felipe de Almeida Costa",
-      "Gilberto Januario"
-    ],
-    [
       "Matheus Marques de Araújo",
       "José Jorge de Sousa",
       "Silvanio de Andrade"
+    ],
+    [
+      "Luciano Pereira da Silva",
+      "Valdomiro Pinheiro Teixeira Junior",
+      "Marcelo de Sousa Oliveira"
     ],
     [
       "Jocelei Miranda da Silva",
       "Klinger Teodoro Ciríaco"
     ],
     [
-      "Cecília Elenir dos Santos Rocha",
-      "Maria Cecília Pereira Santarosa",
-      "Carla Beatriz Spohr"
+      "Salvador Cardoso Silva Muniz",
+      "Márcia Cristina de Costa Trindade Cyrino",
+      "Fábio Alexandre Borges"
+    ],
+    [
+      "Danielle Fernandes Martins",
+      "Gilberto Januario"
+    ],
+    [
+      "Ivanilson Rodrigues da Silva Cunha",
+      "Naralina Viana Soares da Silva Oliveira"
     ],
     [
       "Renata Teófilo de Sousa",
       "Antônio Almir Bezerra"
+    ],
+    [
+      "Jailson França Santos",
+      "Leandro Blass"
     ],
     [
       "Carlesom Piano",
@@ -1827,18 +1726,6 @@
       "Maria da Conceição Alves Ferreira"
     ],
     [
-      "Danielle Fernandes Martins",
-      "Gilberto Januario"
-    ],
-    [
-      "Ivanilson Rodrigues da Silva Cunha",
-      "Naralina Viana Soares da Silva Oliveira"
-    ],
-    [
-      "Jailson França Santos",
-      "Leandro Blass"
-    ],
-    [
       "Maria Margarete do Rosario Farias",
       "Marlúbia Corrêa de Paula",
       "Pâmera Veluma Santos do Amparo",
@@ -1846,11 +1733,6 @@
     ],
     [
       "Paulo Roberto Castor Maciel"
-    ],
-    [
-      "Leandro Carlos Oliveira Sales",
-      "Kátia Romilda Silva do Nascimento",
-      "Daniel Brandão Menezes"
     ],
     [
       "Saulo Macedo de Oliveira",
@@ -1865,8 +1747,17 @@
       "Lemerton Matos Nogueira"
     ],
     [
+      "Leandro Carlos Oliveira Sales",
+      "Kátia Romilda Silva do Nascimento",
+      "Daniel Brandão Menezes"
+    ],
+    [
       "Larissa Nogueira dos Santos",
       "Enio Freire de Paula"
+    ],
+    [
+      "Ronald Simões de Mattos Pinto",
+      "Ivo da Silva Knopp"
     ],
     [
       "Flavio Augusto Leite Taveira",
@@ -1877,13 +1768,8 @@
       "Carlos Eduardo Petronilho Boiago"
     ],
     [
-      "Ronald Simões de Mattos Pinto",
-      "Ivo da Silva Knopp"
-    ],
-    [
-      "Zionice Garbelini Martos Rodrigues",
-      "Luciane de Castro Quintiliano",
-      "Klinger Teodoro Ciríaco"
+      "Ana Paula Rodrigues Magalhães de Barros",
+      "Dario Fiorentini"
     ],
     [
       "Laís Vitória Lazarini",
@@ -1891,11 +1777,9 @@
       "Marcelo Carlos de Proença"
     ],
     [
-      "Enio Freire de Paula"
-    ],
-    [
-      "Ana Paula Rodrigues Magalhães de Barros",
-      "Dario Fiorentini"
+      "Cauê Duarte",
+      "Rafael Montoito",
+      "John Lennon Lindemann"
     ],
     [
       "Kauane Lemos Santiago",
@@ -1907,4535 +1791,24 @@
       "Zionice Garbelini Martos Rodrigues"
     ],
     [
-      "Cauê Duarte",
-      "Rafael Montoito",
-      "John Lennon Lindemann"
+      "Enio Freire de Paula"
+    ],
+    [
+      "Waléria de Jesus Barbosa Soares",
+      "Carlos André Bogéa Pereira",
+      "Régia Mayanne Rodrigues Luna"
+    ],
+    [
+      "Luciana Aparecida da Cunha"
     ],
     [
       "Natiele Silva Lamera",
       "Maria Raquel Miotto Morelatti"
     ],
     [
-      "Luciana Aparecida da Cunha"
-    ],
-    [
       "Fernando Schlindwein Santino",
       "Klinger Teodoro Ciríaco",
       "Pedro Manuel Baptista Palhares"
-    ],
-    [
-      "Waléria de Jesus Barbosa Soares",
-      "Carlos André Bogéa Pereira",
-      "Régia Mayanne Rodrigues Luna"
     ]
-  ],
-  "producao_por_autor": {
-    "Francelino Bomfim Santos": 1,
-    "Joubert Lima Ferreira": 3,
-    "Robson Luiz da Costa Rosa": 1,
-    "Christine Sertã Costa": 1,
-    "Solange Aparecida Corrêa": 1,
-    "Celi Espasandin Lopes": 7,
-    "Marcio Eugen Klingenschmid Santos": 1,
-    "Rossely Valoni de Jesus": 1,
-    "Edmilson Minoru Torisu": 2,
-    "Fabíola da Cruz Martins": 1,
-    "Silvanio de Andrade": 4,
-    "Gretel Alejandrina Fernandez von Metzen": 1,
-    "Claudia Mariela Zang": 1,
-    "María Natalia León": 1,
-    "Amanda Regina dos Santos Andrade": 1,
-    "Gilda Lisbôa Guimarães": 1,
-    "Luan Paulino da Costa": 1,
-    "Marcelo Silva de Jesus": 1,
-    "Angela Marta Pereira das Dores Savioli": 1,
-    "Douglas da Silva Tinti": 16,
-    "Wanusa Rodrigues da Silva": 2,
-    "Ana Lúcia Manrique": 4,
-    "Bruna Larissa Cecco": 1,
-    "Gabriel Willyan Pinheiro de Souza": 2,
-    "Manoel Fernandes Braz Rendeiro": 2,
-    "Luísa Cardoso Mendes": 1,
-    "Agnaldo da Conceição Esquincalha": 1,
-    "Thais Paschoal Postingue": 1,
-    "Jair Lopes Junior": 1,
-    "José Jorge Francisco de Santana": 1,
-    "Adriana Assis Ferreira": 1,
-    "Roseli de Alvarenga Corrêa": 1,
-    "Luis Andrés Castillo": 3,
-    "Ivonne C. Sánchez": 3,
-    "Iran Abreu Mendes": 1,
-    "Luana Leal Alves": 1,
-    "Thaís Daltoé": 1,
-    "Crislaine de Anunciação Roveda": 1,
-    "João Alberto da Silva": 1,
-    "Débora Pelli": 1,
-    "Fernando de Carvalho Pires": 2,
-    "Victor Ferreira Ragoni": 1,
-    "Aparecida Santana de Souza Chiari": 1,
-    "João Francisco Staffa da Costa": 1,
-    "Gregson Barros da Silva": 1,
-    "José Maria N. David": 1,
-    "Liamara Scortegagna": 1,
-    "Keila Cristina Weçolovis": 1,
-    "João Carlos Pereira de Moraes": 1,
-    "Eliane Ferreira Pinto": 1,
-    "Jhenifer Licero Schuete Silva": 1,
-    "Luciana Figueiredo Lacanallo Arrais": 1,
-    "Maria Luiza Evangelista Gil": 1,
-    "Mikaelly Silva Andrade": 1,
-    "Simone Moura Queiroz": 1,
-    "Alef Bruno dos Santos": 1,
-    "Gleidson Filadelfo Dimaranes": 1,
-    "Lívia dos Santos Sousa": 1,
-    "Jaiane Sousa Fonseca": 1,
-    "José Milton Lopes Pinheiro": 3,
-    "Jose da Silva": 1,
-    "João Vitor da Silva": 1,
-    "Everton Lira da Silva": 1,
-    "Vinicios Avelino da Silva": 1,
-    "João Ferreira da Silva Neto": 1,
-    "Adriege Rodrigues": 1,
-    "Izabela Barbosa Freitas": 1,
-    "Ana Cláudia da Silva Rodrigues": 1,
-    "João Ricardo Viola dos Santos": 3,
-    "João Pedro Antunes de Paulo": 2,
-    "Rejane Siqueira Julio": 2,
-    "Thiago Pedro Pinto": 1,
-    "Rosemeire de Fatima Batistela": 1,
-    "Maria Aparecida Viggiani Bicudo": 1,
-    "Cristiane Maria Cornelia Gottschalk": 1,
-    "Rossi D'Souza": 1,
-    "João Severino Filho": 1,
-    "Adailton Alves da Silva": 1,
-    "João Paulo Risso": 1,
-    "Thiago Donda Rodrigues": 2,
-    "Carolina Tamayo": 4,
-    "Victor Giraldo": 1,
-    "Diego de Matos Gondim": 1,
-    "Valdomiro Pinheiro Teixeira Junior": 2,
-    "Paulo Vilhena da Silva": 1,
-    "Luciano Augusto da Silva Melo": 1,
-    "Arilson Monteiro dos Santos": 1,
-    "Henrique Marins de Carvalho": 2,
-    "Diego Matos": 1,
-    "Fellipe Coelho": 1,
-    "Flavio Augusto Leite Taveira": 5,
-    "Deise Aparecida Peralta": 5,
-    "Elhane de Fatima Fritsch Cararo": 1,
-    "Tiago Emanuel Klüber": 2,
-    "Kelvin Rafael Rodrigues de Oliveira": 1,
-    "Elaine Caire": 1,
-    "Virgínia Cardia Cardoso": 1,
-    "Fabio Lennon Marchon": 2,
-    "Steven Watson": 1,
-    "Antonio dos Santos Andrade": 1,
-    "Cecília Pereira Andrade": 1,
-    "Egídio Rodrigues Martins": 1,
-    "Luis Carlos Leal Junior": 1,
-    "Patricia Souza": 1,
-    "Joao Coelho Neto": 1,
-    "Marilia Bazan Blanco": 1,
-    "Renata Teófilo de Sousa": 2,
-    "Francisco Régis Vieira Alves": 5,
-    "Maria José Araújo Souza": 1,
-    "Nilton Cezar Ferreira": 1,
-    "Wagna Mendes Vieira": 1,
-    "Luciano Duarte da Silva": 1,
-    "Lucélida de Fátima Maia da Costa": 1,
-    "Evandro Ghedin": 1,
-    "Patrícia Lima da Silva": 1,
-    "Claudia Glavam Duarte": 2,
-    "Maria Débora de Lima Souza": 1,
-    "Maria das Graças de Lima Souza Filha Souza Filha": 1,
-    "Sabrina Aparecida Martins Vallilo": 1,
-    "Lilian Esquinelato da Silva": 1,
-    "Egidio Rodrigues Martins": 1,
-    "Karina Alessandra Pessoa da Silva": 3,
-    "Jader Otavio Dalto": 3,
-    "Sonia Maria da Silva Junqueira": 1,
-    "Leandro Blass": 3,
-    "Lorenzo Schneider Morales": 1,
-    "Larissa Pereira da Silva": 1,
-    "Lucas Capello": 1,
-    "Klismann Winter Pinheiro": 1,
-    "Josué Antunes de Macêdo": 1,
-    "Ítalo Andrew Rodrigues Santos": 1,
-    "Lailson dos Reis Pereira Lopes": 1,
-    "Anderson Minosso": 1,
-    "Stephanie Díaz-Urdaneta": 1,
-    "Maria Lucia Panossian": 3,
-    "Luiz Carlos Leal Junior": 1,
-    "Antônio dos Santos Andrade": 1,
-    "Lucas Augusto Moreira Barros": 1,
-    "Cíntia Raquel Ferreira Mercado de Almeida": 1,
-    "Klinger Teodoro Ciríaco": 9,
-    "Gilbson Velasco": 1,
-    "Regiane da Silva Barbosa": 1,
-    "Gabriele Souza de Carvalho": 1,
-    "Grace Dórea Santos Baqueiro": 1,
-    "Gabrielle Janaina Barros de Menezes": 1,
-    "Ronaldo Barros Ripardo": 2,
-    "Indiana Picolo Vial": 1,
-    "Adriana Richit": 2,
-    "Joseane Mirtis de Queiroz Pinheiro": 1,
-    "Flávia Sueli Fabiani Marcatto": 1,
-    "Bruno Damien da Costa Paes Jürgensen": 1,
-    "Marcele Tavares Mendes": 2,
-    "Dayani Quero da Silva": 1,
-    "Pamela Emanueli Alves Ferreira": 1,
-    "Regina Luzia Corio de Buriasco": 1,
-    "Guilherme Rodrigues Batista": 1,
-    "Laissa Figueiredo do Valle": 1,
-    "Natan Onoda": 1,
-    "Valéria Azzi Collet da Graça": 1,
-    "Maria Isabel Ramalho Ortigão": 2,
-    "Carlos Augusto Aguilar Júnior": 2,
-    "Geraldo Eustáquio Moreira": 5,
-    "Bruno Jürgensen": 1,
-    "Felipe Olavo Silva": 1,
-    "Amanda Azevedo Abou Mourad": 1,
-    "Rafael Guimarães de Assis Motta": 1,
-    "Adriana Helena Borssoi": 1,
-    "André Luis Trevisan": 1,
-    "Renata Graciele Batista Rodrigues Rodrigues": 1,
-    "Talita Canassa Weber": 1,
-    "João Carlos Caldato": 1,
-    "Erilúcia Souza da Silva": 1,
-    "Maria Helena Monteiro Mendes Baccar": 1,
-    "Mário Keniichi Gushima Moura": 1,
-    "Gabriel dos Santos e Silva": 1,
-    "Mariana Souza Innocenti": 1,
-    "Jessica Aparecida Borssoi Zanquim": 1,
-    "Rita de Cássia Tenfen": 1,
-    "Morgana Scheller": 3,
-    "Cloves Kurek": 1,
-    "Cármen Lúcia Blancaglion Passos": 1,
-    "Flavia dos Santos Soares": 1,
-    "Marcia Cristina de Costa Trindade Cyrino": 1,
-    "Regina Célia Grando Grando": 1,
-    "Antonio Miguel": 2,
-    "Elizabeth Gomes Souza": 1,
-    "Alexandrina Monteiro": 1,
-    "Adair Mendes Nacarato": 5,
-    "Kátia Gabriela Moreira": 2,
-    "Francisco Josimar Ricardo Xavier": 1,
-    "Julio Cesar de Moura Dias": 1,
-    "Adriano Vargas Freitas": 3,
-    "Antonia Alves Pereira da Silva": 1,
-    "Flávia Cristina de Macêdo Santana": 1,
-    "Enio Freire De Paula": 1,
-    "Patrícia Sândalo Pereira": 1,
-    "Margareth Sacramento Rotondo": 1,
-    "Giovani Cammarota": 1,
-    "Sônia Maria Clareto": 1,
-    "Maria Celeste Souza de Castro": 1,
-    "Wagner Rodrigues Valente": 2,
-    "Rogério Marques Ribeiro": 5,
-    "Armando Traldi Jr": 3,
-    "Enio Freire de Paula": 5,
-    "Vinicius Pazuch": 1,
-    "Heriberto Silva Nunes Bezerra": 1,
-    "Tatiani Daiana de Novaes": 1,
-    "Alixandre Marques Cruz": 1,
-    "Carlos Alberto de Vasconcelos": 1,
-    "Francisco Hemerson Brito da Silva": 2,
-    "Ana Carolina Costa Pereira": 5,
-    "Antonia Naiara de Sousa Batista": 1,
-    "Eliane Maria Vani Ortega": 1,
-    "Joenneyres Raio de Souza Amancio": 1,
-    "Carloney Alves de Oliveira": 3,
-    "Inocêncio Fernandes Balieiro Filho": 3,
-    "Ernandes Rocha de Oliveira": 1,
-    "Jacqueline Nascimento de Souza": 1,
-    "Carlson Guerreiro de Almeida": 1,
-    "Zulma Elizabete de Freitas Madruga": 5,
-    "Reinaldo Feio Lima": 2,
-    "Marlúbia Corrêa de Paula": 2,
-    "Cassio Cristiano Giordano": 1,
-    "José Augusto Lopes da Silva": 1,
-    "Simone Venturin": 1,
-    "Bruna Mayara Batista Rodrigues": 1,
-    "Claudia de Oliveira Lozada": 1,
-    "Janaíne Ferreira dos Santos": 1,
-    "Bruna Gama dos Santos": 1,
-    "Cryslane Araújo de Lima": 1,
-    "Adriano Alves da Silveira": 2,
-    "Benedito Junior Farias Pantoja": 1,
-    "Francisco Wagner Soares Oliveira": 1,
-    "Daniele Esteves Pereira Smith": 1,
-    "Edel Alexandre Silva Pontes": 1,
-    "Daniel Albernaz de Paiva Brito": 1,
-    "Gabriel Loureiro de Lima": 2,
-    "Josélia Euzébio da Rosa": 1,
-    "Fabiana de Souza Marcelo": 1,
-    "Roger Ruben Huaman Huanca": 1,
-    "Ananias Félix da Silva": 1,
-    "Pedro Mikael Santos Silva": 1,
-    "Fabiane Fischer Figueiredo": 2,
-    "Lupi Scheer dos Santos": 1,
-    "Kelen Cristina da Cruz": 1,
-    "Flavia Luciane Pinheiro Gonzales": 1,
-    "Elaine Corrêa Pereira": 1,
-    "Celiane Costa Machado": 1,
-    "Edvanilson Santos de Oliveira": 1,
-    "Patrícia Sandalo Pereira": 1,
-    "Reilan Bomfim da Silva": 1,
-    "Eurivalda Ribeiro dos Santos Santana": 2,
-    "Fabiana dos Santos Vieira": 1,
-    "Cláudia Celeste Lima Costa Menezes": 1,
-    "Thiago Beirigo Lopes": 1,
-    "Dailson Evangelista Costa": 1,
-    "Maria Cecilia Fantinato": 3,
-    "Claudio Fernandes da Costa": 1,
-    "Jackeline Rodrigues Mendes": 1,
-    "Marcio D'Olne Campos": 1,
-    "Hilbert Blanco Alvarez": 1,
-    "Edwin Molano Franco": 1,
-    "Eric Vandendriessche": 1,
-    "Kécio Leite": 1,
-    "Quesler Camargos": 1,
-    "Marília Prado": 1,
-    "Cristiane Coppe de Oliveira": 2,
-    "Filipe Santos Fernandes": 2,
-    "Eliziara Pereira Coutinho": 1,
-    "José Ricardo e Souza Mafra": 1,
-    "Andréa Thees": 1,
-    "Vinícius Pazuch": 3,
-    "Ivanete Fátima Blauth": 1,
-    "Suely Scherer": 1,
-    "Relicler Pardim Gouveia": 1,
-    "Fernando Frei": 3,
-    "Renata Aparecida de Faria": 1,
-    "Carlos Mometti": 1,
-    "Flávia Marcatto": 1,
-    "Cirléia Pereira Barbosa": 1,
-    "Williane Costa Ferreira": 2,
-    "Claudia Witt": 1,
-    "Andréia Friske": 1,
-    "Maurício Rosa": 1,
-    "Patrícia Costa Ginez": 1,
-    "Rogério Fernando Pires": 1,
-    "Raquel Gomes de Oliveira": 1,
-    "Wagner Monger": 1,
-    "Giovana Pereira Sander": 1,
-    "Evandro Tortora": 2,
-    "Letícia Freitas Fernandes": 1,
-    "Sandra Alves de Oliveira": 1,
-    "Paulo Vitor da Silva Santiago": 1,
-    "Beatriz Maria Pereira Maia": 1,
-    "Tamillis Silva de Andrade Vigas": 1,
-    "Jurema Lindote Botelho Peixoto": 1,
-    "Araceli Gonçalves": 1,
-    "Antônio Vieira Lima Junior": 1,
-    "Stéfany Silva Araújo": 1,
-    "Victor Coelho Oliveira": 1,
-    "Guilherme Santos Souza": 1,
-    "Pedro Paulo Melo Arantes": 1,
-    "Pablo Rogers": 1,
-    "Dany Rogers": 1,
-    "Andressa Rubim": 1,
-    "Maíra Fernandes": 1,
-    "Raquel Milani": 2,
-    "Renata Passos Machado Vieira": 1,
-    "Francisco Regis Vieira Alves": 1,
-    "Paula Maria Machado Cruz Catarino": 1,
-    "Mylena Simões Campos": 1,
-    "Renan Oliveira Altoé": 1,
-    "Lais Scorziello Feitosa da Silva": 1,
-    "Claudinei Camargo Sant'Ana": 1,
-    "Irani Parolin Sant'Ana": 2,
-    "Sezilia Toledo": 1,
-    "Gesiel Alisson Martinho": 1,
-    "Diogo Alves de Faria Reis": 1,
-    "Lucas Rocha Santos": 1,
-    "Mariana Lima Matos": 1,
-    "Irani Parolin Sant’Ana": 1,
-    "Marcelo Carlos de Proença": 4,
-    "Gislaine Aparecida Puton Zortêa": 1,
-    "Zenildo Santos": 2,
-    "Claudinei de Camargo Sant’Ana": 1,
-    "Lúcio Campos Costa": 2,
-    "João Socorro Pinheiro Ferreira": 1,
-    "Pâmela Amado Tristão": 1,
-    "Andressa Crema Correa": 1,
-    "gabriela dos santos barbosa": 1,
-    "Gisele Pereira Oliveira": 1,
-    "Carla Camargo Fonseca": 1,
-    "Gabriele Bonotto Silva": 1,
-    "Vera Lucia Felicetti": 1,
-    "Nerivaldo Honorato da Cruz Santos": 1,
-    "Maria Elizabete Souza Couto": 1,
-    "Ana Maria Mota Oliveira Scalabrin": 1,
-    "Solange Mussato": 1,
-    "Cleverton Eugênio do Carmo": 1,
-    "Teresa Cristina Etcheverria": 1,
-    "Arthur Gonçalves Machado": 1,
-    "Franciene Ribeiro": 1,
-    "Walkiria Guimarães": 1,
-    "Maria Dulce Matos": 1,
-    "Milton Rosa": 1,
-    "Daniel Clark Orey": 1,
-    "Ana Maria Foss": 1,
-    "Paulo Wichnoski": 2,
-    "Tânia Stella Bassoi": 1,
-    "Bruna Mendes Muniz": 1,
-    "Harryson Júnio Lessa Gonçalves": 2,
-    "Rosalide Carvalho de Sousa": 1,
-    "Francisca Cláudia Fernandes Fontenele": 1,
-    "Aline Amanda Sodré": 1,
-    "Marger da Conceição Ventura Viana": 1,
-    "Wellington José de Arruda Melo": 1,
-    "Rosinalda Aurora de Melo Teles": 1,
-    "Paulo Roberto Castor Maciel": 2,
-    "Américo Junior Nunes da Silva": 2,
-    "Valesca Brasil Irala": 1,
-    "Joyce Evellyn da Silva Cruz": 1,
-    "Elton de Andrade Viana": 1,
-    "Ana Lucia Manrique": 1,
-    "Fábio Alexandre Borges": 2,
-    "Guilherme Wagner": 1,
-    "Regina Célia Grando": 2,
-    "Jaqueline Aparecida Foratto Lixandrão Santos": 1,
-    "Ivanise Gomes Arcanjo Diniz": 1,
-    "André Pereira da Costa": 2,
-    "Rosane Mendes Barbosa": 1,
-    "Anderson Rodrigo Oliveira da Silva": 1,
-    "Bruno Lopes Oliveira da Silva": 1,
-    "Fernando Emílio Leite de ALmeida": 1,
-    "Milagros Elena Rodriguez": 1,
-    "Lauro Chagas e Sá": 1,
-    "Organdi Mongin Rovetta": 1,
-    "Davi Ribeiro Novaes Welsing": 1,
-    "Nelson Antonio Pirola": 2,
-    "José Gleison Alves da Silva": 1,
-    "Daniel Brandão Menezes": 2,
-    "Cidimar Andreatta": 2,
-    "Norma Suely Gomes Allevato": 4,
-    "Caroline Almeida de Souza": 1,
-    "Rogério Ferreira da Fonseca": 1,
-    "Jocelyn D. Pallauta": 1,
-    "Daniela Bonilla Barraza": 1,
-    "Clarissa Coragem Ballejo": 1,
-    "Claudia Alves de Castro": 1,
-    "Edda Curi": 1,
-    "Barbara Corominas Valério": 1,
-    "Fabio Antunes Brun de Campos": 1,
-    "Vanessa Neto": 2,
-    "Rodrigo Batista": 1,
-    "José Carlos Pinto Leivas": 2,
-    "Fredy Enrique González": 1,
-    "Eliane Bihuna de Azevedo": 1,
-    "Pedro Manuel Baptista Palhares": 2,
-    "Elisandra Bar de Figueiredo": 1,
-    "Claudia Lisete Oliveira Groenwald": 3,
-    "Leandro Antonio Recalcati": 1,
-    "Luiz Otavio Rodrigues Mendes": 1,
-    "Esther Fernández Arellano": 1,
-    "José Carrillo Yáñez": 1,
-    "Sandra Cristina Martini Rostirola": 1,
-    "Ivanete Zuchi Siple": 1,
-    "Isabel Piteira Vale": 1,
-    "Ana Barbosa": 1,
-    "Rogério Ramos Socha": 1,
-    "Susana Machado Ferreira": 1,
-    "Vanilde Bisognin": 1,
-    "Thiarla Xavier Dal-Cin Zanon": 1,
-    "Janderson Machado de Valois": 1,
-    "Sabrina Carvalho Silva": 1,
-    "Vânia Bolzan Denardi": 1,
-    "Eleni Bisognin": 1,
-    "Flavia Cristine Fernandes Souto": 1,
-    "Ettiène Guérios": 1,
-    "Claudia Vieira de Vargas": 1,
-    "Fabiane Cristina Hopner Noguti": 1,
-    "Janaína Poffo Possamai": 1,
-    "Viviane Clotilde da Silva": 1,
-    "Rosana Nogueira de Lima": 1,
-    "Maria Elisa Esteves Lopes Galvão": 1,
-    "Edna Mataruco Duarte": 1,
-    "Célia Barros Nunes": 1,
-    "Minervina Joseli Espíndola Reis": 1,
-    "Luanne Lima Ferreira": 1,
-    "Leonardo Brito da Silva": 1,
-    "Emily Vasconcelos Santos": 1,
-    "Silvanio Andrade": 1,
-    "Paulo Martins Afonso": 1,
-    "Dolores Alveirinho": 1,
-    "José Filipe": 1,
-    "Nuno Santos": 1,
-    "Patrícia Santos da Silva": 1,
-    "Renata Prenstteter Gama": 2,
-    "Marli Eliza Dalmazo Afonso de André": 1,
-    "Maria Cecília Pereira Soares": 1,
-    "Ana Cristina Ferreira": 1,
-    "Márcio Urel Rodrigues": 2,
-    "Acelmo Jesus Brito": 1,
-    "Allan Kardec Messias Silva": 1,
-    "Rael Fernandes Turatti": 1,
-    "Wilson Souza Costa Júnior": 1,
-    "Ana Paula Perovano": 4,
-    "Georgyana Gomes Cidrão": 1,
-    "Aldo Peres Campos Lopes": 1,
-    "Frederico da Silva Reis": 1,
-    "Daniel Jesus Silva": 1,
-    "Franklin Fernando Ferreira Pachêco": 3,
-    "Gisele Ferreira Pachêco": 3,
-    "Juliana França Viol Paulin": 1,
-    "Rosana Giaretta Sguerra Miskulin": 3,
-    "Natalia Nascimben Delmondi": 1,
-    "Maria Teresa Merino Ruz Mastroianni": 1,
-    "Gerson Pastre Oliveira": 1,
-    "Débora Vieira de Souza": 1,
-    "Anderson Douglas Pereira Rodrigues da Silva": 1,
-    "Ademir Donizeti Caldeira": 2,
-    "Arthur Belford Powell": 1,
-    "Jhony Alexander Villa-Ochoa": 1,
-    "Edvonete Souza de Alencar": 1,
-    "Maria Carolina Machado Magnus": 1,
-    "Regis Forner": 1,
-    "Ana Paula dos Santos Malheiros": 3,
-    "Celenita Ferreira Marcondes": 1,
-    "Vantielen da Silva Silva": 2,
-    "Franciele Piaia": 1,
-    "Silvana Costa Silva": 1,
-    "Flaviana dos Santos Silva": 2,
-    "Fábio Henrique Barbosa": 1,
-    "Paulo Cesar Oliveira": 1,
-    "Laynara dos Reis Santos Zontini": 1,
-    "Dionísio Burak": 1,
-    "Ravelle Souza de Jesus": 1,
-    "Ivanil Miranda dos Santos": 1,
-    "Jaqueline de Souza Pereira Grilo": 1,
-    "Cristina de Jesus Teixeira": 1,
-    "Thiago Ferreira Paiva": 1,
-    "Camila Ehrat Dias": 1,
-    "Marcia Cristina Ribas": 1,
-    "Marcio André Martins": 1,
-    "Joana Tinoco": 1,
-    "Maria Helena Martinho": 1,
-    "Anabela Cruz Santos": 1,
-    "Adriela Maria Noronha": 1,
-    "Cátia Maria Nehring": 1,
-    "Sofia Seixas Takinaga": 1,
-    "Gabriela Gomes Ribeiro": 1,
-    "Eliane Matesco Cristovão": 2,
-    "Joeanne Neves Fraz": 1,
-    "Lygianne Batista Vieira": 1,
-    "Maria Bethânia Sardeiro dos Santos": 1,
-    "Maria Euripedes de Souza Dias": 1,
-    "Jessyca Rodrigues de Castro": 1,
-    "Amanda Chaves Santos": 1,
-    "Karina Aguiar Alves": 1,
-    "Regina Lucia da Silva": 1,
-    "Vivilí Maria Silva Gomes": 1,
-    "Marcia Aguiar": 1,
-    "Lucas Diego Antunes Barbosa": 1,
-    "Barbara Lutaif Bianchini": 1,
-    "Wagner Marcelo Pommer": 1,
-    "Sergio Lorenzato": 3,
-    "Rosana Prado Biani": 2,
-    "Alfonso Jiménez Espinosa": 1,
-    "André Luiz Paulilo": 1,
-    "Moysés Gonçalves Siqueira Filho": 1,
-    "Pedro Paulo Salles": 1,
-    "Antonio José Lopes": 1,
-    "Sérgio Candido de Gouveia Neto": 1,
-    "Gabriela dos Santos Barbosa": 1,
-    "Alzir Fourny Marinhos": 1,
-    "Alexandre Herculano Ferreira Freitas": 1,
-    "Aldiléia da Silva Souza": 1,
-    "Flávia de Fatima Santos Silva": 1,
-    "Conceição Aparecida Cruz Longo": 1,
-    "Isaura Aparecida Torse de Almeida": 1,
-    "Marilene Rosa dos Santos": 1,
-    "Antonio Henrique Pinto": 1,
-    "Jaqueline Ferreira Silva": 1,
-    "Bárbara Cristina Moreira Sicardi Sicardi Nakayama": 1,
-    "Gilmara Aparecida da Silva": 1,
-    "Nilton Silveira Domingues": 1,
-    "Marcelo de Carvalho Borba": 2,
-    "Allan Gomes Santos": 1,
-    "Cristiane Lopes de Carvalho Pinto": 1,
-    "Marlos Gomes de Albuquerque": 1,
-    "Lucinalva Aparecida Neves": 1,
-    "Elenilton Vieira Godoy": 3,
-    "Cecy Leite Alves Carreta": 1,
-    "Keli Cristina Conti": 2,
-    "Nayara Katherine Duarte Pinto": 1,
-    "Danielle Alves Martins": 1,
-    "Loretta M. Grisi Dicker": 1,
-    "Muteb M. Alqahtani": 1,
-    "Arthur B. Powell": 1,
-    "Jenny Patricia Acevedo Rincon": 1,
-    "Júlio César Augusto Valle": 1,
-    "Carlos Ricardo Bifi": 1,
-    "Herminia Kelly Barros": 1,
-    "Ilvanete dos Santos Souza": 1,
-    "Kátia Martins Rodrigues": 1,
-    "Laurizete Ferragut Passos": 1,
-    "Luciano Duarte Silva": 1,
-    "Loreni Aparecida Ferreira Baldini": 1,
-    "Júlio Cézar Rodrigues de Oliveira": 1,
-    "Márcia Cristina de Costa Trindade Cyrino": 3,
-    "Paulo Henrique Rodrigues": 1,
-    "Emerson de Souza Silva": 1,
-    "João Paulo Attie": 1,
-    "Juliene Santos Oliveira": 1,
-    "Tiago de Jesus Souza": 1,
-    "Leila Pessôa Da Costa": 1,
-    "Regina Maria Pavanello": 1,
-    "Fernando Luís Pereira Fernandes": 1,
-    "Zionice Rodrigues": 1,
-    "Luciane de Castro Quintiliano": 3,
-    "Helen de Freitas Santos": 1,
-    "Marisa da Silva Dias": 1,
-    "Elaine Matesco Cristovão": 1,
-    "José Marcos Lopes": 2,
-    "André Gustavo Oliveira da Silva": 2,
-    "Rosana Salvi": 1,
-    "Eveline Vieira Costa": 1,
-    "Clarossa de Assis Olgin": 1,
-    "Edelweis José Tavares Barbosa": 1,
-    "Clovis Gomes da Silva Junio": 1,
-    "Claudineia Helena Recco": 2,
-    "Miriam Cardoso Utsumi": 2,
-    "Selma Rosana Santiago Manechine": 1,
-    "Ana Maria de Andrade Caldeira": 1,
-    "Maria Luciane de Fatima Bertini": 1,
-    "Cármen Lúcia Brancaglion Passos": 2,
-    "Lourdes Maria Werle de Almeida": 1,
-    "Carolina Innocente Rodrigues": 1,
-    "Maria do Carmo de Sousa": 2,
-    "Carina Brabo da Silva": 1,
-    "Carlos Eduardo Félix Correia": 1,
-    "Leonora Pilon Quintas": 1,
-    "Edna Maura Zuffi": 2,
-    "Marco Aurélio Kistemann Jr.": 1,
-    "Sara Domenici": 1,
-    "Celi S. Lopes": 1,
-    "Maria José de Castro Silva": 1,
-    "Rodrigo Lopes de Oliveira": 1,
-    "Conceição Aparecida Parateli": 1,
-    "Regina Célia Mussi Pontes": 1,
-    "Maria das Graças dos Santos Abreu": 1,
-    "Joni de Almeida Amorim": 1,
-    "Carlos Machado": 1,
-    "Luciana Parente Rocha": 1,
-    "Maria Tereza Menezes Freitas": 2,
-    "Rúbia Barcelos Amaral Zulatto": 1,
-    "Maria Cláudia Cabrini Grácio": 1,
-    "Ely Francina Tannuri de Oliveira": 1,
-    "Lucas Factor Feliciano": 1,
-    "Cármen L.B. Passos": 1,
-    "Dario Fiorentini": 3,
-    "Eleonora Dantas Brun": 1,
-    "Maria Auxiliadora Megid": 1,
-    "Marisol Vieira de Melo": 1,
-    "Leila Barbosa Oliveira": 1,
-    "Anna Regina Lanner de Moura": 1,
-    "Eurípedes Alves da Silva": 2,
-    "Maria Ângela Miorim": 2,
-    "Maria Dolores Ceccato Mendes": 1,
-    "Lourdes De La Rosa Onuchic": 1,
-    "Luciene Souto Botta": 1,
-    "Telma de Souza Gracias": 1,
-    "Davi de Souza": 1,
-    "Hygino H. Domingues": 1,
-    "Marcos Luiz Lourenço": 2,
-    "Ruy Madsen Barbosa": 2,
-    "Claudemir Murari": 1,
-    "Manoel Oriosvaldo de Moura": 1,
-    "Maria Amabile Mansutti": 1,
-    "Márcia Regina x Márcia Regina Ferreira de Brito": 1,
-    "Silvia Dias de Alcântara Machado": 1,
-    "Romulo Campos Lins": 1,
-    "Armando Traldi Júnior": 1,
-    "Valéria Ostete Jannis Luchetta": 1,
-    "Priscila Bernardo Martins": 1,
-    "Vanessa Dias Moretti": 1,
-    "Lucas Carato Mazzi": 3,
-    "Everaldo Gomes Leandro": 1,
-    "Luciane de Fatima Bertini": 1,
-    "Suzete Souza Borelli": 1,
-    "Wellington Pereira das Virgens Virgens": 1,
-    "Júlio Cesar Augusto do Valle": 1,
-    "Clarissa de Assis Olgin": 2,
-    "Cristiane Klöpsch": 1,
-    "Vinicio de Macedo Santos": 1,
-    "Júlio César Augusto do Valle": 3,
-    "Maria Luiza Rocha Bueno": 2,
-    "Alessandra Carvalho Teixeira": 1,
-    "Edicléia Xavier da Costa": 1,
-    "Douglas Silva Santos": 1,
-    "Janaina Farias de Ornellas": 1,
-    "Carla Cristina Pompeu": 1,
-    "Joana Inês Novaes": 1,
-    "Ricardo Gomes Assunção": 1,
-    "Marcio Antonio da Silva": 2,
-    "Roberta de Oliveira Barbosa": 1,
-    "Paula Cristina Constantino Santos": 1,
-    "Elda de Aguiar Gama Mortinho": 1,
-    "Carolina Rodrigues Dias": 1,
-    "Tamires Torres da Purificação": 1,
-    "Cleber Dias da Costa Neto": 1,
-    "Jonata Souza dos Santos": 1,
-    "Daniele Costa Silva": 1,
-    "Ana Lúcia Braz Dias": 1,
-    "Rúbia Barcelos Amaral": 2,
-    "Luciana Vieira Andrade": 1,
-    "Iolanda Marcia de Souza": 1,
-    "Gilberto Januario": 3,
-    "Taune Pacheco": 1,
-    "Ana Carolina Rosa Rodrigues de Freitas": 1,
-    "Silvana Duarte Pereira": 1,
-    "Vanessa Lucena Camargo de Almeida Klaus": 1,
-    "Manuella Carrijo": 1,
-    "Adriéli Aline Duarte": 1,
-    "Fernanda Marchiori Grave": 1,
-    "Rodolfo Eduardo Vertuan": 1,
-    "Clodis Boscarioli": 1,
-    "Fabio Alves Menecucci": 1,
-    "Johnny Nazareth dos Santos": 1,
-    "Denner Dias Barros": 1,
-    "Lahis Braga Souza": 1,
-    "Regina Helena de Oliveira Lino Franchi": 1,
-    "Karen Ramos": 1,
-    "Ana Carolina Faustino": 1,
-    "Amanda Queiroz Moura": 1,
-    "Marília Zabel": 1,
-    "Lucas Martini": 1,
-    "Edicleia Xavier da Costa": 1,
-    "Douglas Ribeiro Guimarães": 1,
-    "Trinidad Vaccarezza": 1,
-    "Meiriele Cruz": 1,
-    "Solange Loureiro Pozzuto": 1,
-    "Endrika Leal Soares": 1,
-    "Luzia Aparecida de Souza": 1,
-    "Luciana Miyuki Sado Utsumi": 1,
-    "Zaqueu Vieira Oliveira": 1,
-    "Zeca Catuco André Quimuanga": 1,
-    "Vieira dos Santos Bunga": 1,
-    "Renan Pereira Santos": 1,
-    "Claudinei de Camargo Sant'Ana": 1,
-    "Leonardo Lira de Brito": 1,
-    "Daiane Silva Andrade": 1,
-    "Angelica da Fontoura Garcia Silva": 1,
-    "Jacielma Dantas dos Santos": 1,
-    "Gilmar Bezerra de Lima": 1,
-    "Maria Alves de Azerêdo": 1,
-    "Luana Maria Santos da Silva Ayres": 1,
-    "Tanise Paula Novello": 1,
-    "Adriana Nogueira de Oliveira": 1,
-    "Bruno Cesar Alonso": 1,
-    "Marli Schmitt Zanella": 1,
-    "Luciano Carvalhais Gomes": 1,
-    "Priscila de Castro Barros Greca": 1,
-    "Célia Aparecida Dias Ferreira Louzada": 1,
-    "Marcio Urel Rodrigues": 1,
-    "Maria Elizabete Rambo Kochhann": 1,
-    "Angelica Aparecida Pacheco": 1,
-    "Janine Freitas Mota": 1,
-    "Gabriel Amancio Alves": 1,
-    "Beatriz Fernanda Litoldo": 1,
-    "Erika Capelato": 1,
-    "Gabriela Cervantes Zubirías": 1,
-    "Paulo Sérgio Teixeira do Prado": 1,
-    "Dione Alves de Almeida": 1,
-    "Shirley Patrícia Nogueira de Castro e Almeida": 2,
-    "Mônica Maria Teixeira Amorim": 1,
-    "Danielle Abreu Silva": 1,
-    "Giovana Maschio Pereira dos Santos": 1,
-    "Dayvid Lós": 1,
-    "Cristine Gusmão": 1,
-    "Luciano Pereira da Silva": 1,
-    "Marcelo de Sousa Oliveira": 1,
-    "Handerson Ferreira Gonçalves": 1,
-    "Jussara Santos Rosa": 1,
-    "Renata de Luca Gallo": 1,
-    "Zionice Garbelini Martos Rodrigues": 3,
-    "Jonas Evangelista Silva": 1,
-    "Rosemary Aparecida Santiago": 1,
-    "Salvador Cardoso Silva Muniz": 1,
-    "Andressa Florcena Gama da Costa": 1,
-    "Jéssica Costa de Meneses da Cruz": 1,
-    "Felipe de Almeida Costa": 1,
-    "Matheus Marques de Araújo": 1,
-    "José Jorge de Sousa": 1,
-    "Jocelei Miranda da Silva": 1,
-    "Cecília Elenir dos Santos Rocha": 1,
-    "Maria Cecília Pereira Santarosa": 1,
-    "Carla Beatriz Spohr": 1,
-    "Antônio Almir Bezerra": 1,
-    "Carlesom Piano": 1,
-    "Fernanda Catia Bozelli": 1,
-    "Talamira Taita Rodrigues Brito": 1,
-    "Maria da Conceição Alves Ferreira": 1,
-    "Danielle Fernandes Martins": 1,
-    "Ivanilson Rodrigues da Silva Cunha": 1,
-    "Naralina Viana Soares da Silva Oliveira": 1,
-    "Jailson França Santos": 1,
-    "Maria Margarete do Rosario Farias": 1,
-    "Pâmera Veluma Santos do Amparo": 1,
-    "Maritza Maria Lima de Almeida Souza": 1,
-    "Leandro Carlos Oliveira Sales": 1,
-    "Kátia Romilda Silva do Nascimento": 1,
-    "Saulo Macedo de Oliveira": 1,
-    "Bruno Roberto Bione de Oliveira": 1,
-    "André Ricardo Lucas Vieira": 1,
-    "Murilo Coêlho Sousa": 1,
-    "Lemerton Matos Nogueira": 1,
-    "Larissa Nogueira dos Santos": 1,
-    "Antonio Ianni Segatto": 1,
-    "Carlos Eduardo Petronilho Boiago": 1,
-    "Ronald Simões de Mattos Pinto": 1,
-    "Ivo da Silva Knopp": 1,
-    "Laís Vitória Lazarini": 1,
-    "Érika Janine Maia-Afonso": 1,
-    "Ana Paula Rodrigues Magalhães de Barros": 1,
-    "Kauane Lemos Santiago": 1,
-    "Emily Beatriz Ramos": 1,
-    "Cauê Duarte": 1,
-    "Rafael Montoito": 1,
-    "John Lennon Lindemann": 1,
-    "Natiele Silva Lamera": 1,
-    "Maria Raquel Miotto Morelatti": 1,
-    "Luciana Aparecida da Cunha": 1,
-    "Fernando Schlindwein Santino": 1,
-    "Waléria de Jesus Barbosa Soares": 1,
-    "Carlos André Bogéa Pereira": 1,
-    "Régia Mayanne Rodrigues Luna": 1
-  },
-  "arestas": [
-    {
-      "a": "Francelino Bomfim Santos",
-      "b": "Joubert Lima Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Christine Sertã Costa",
-      "b": "Robson Luiz da Costa Rosa",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Marcio Eugen Klingenschmid Santos",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Solange Aparecida Corrêa",
-      "peso": 1
-    },
-    {
-      "a": "Marcio Eugen Klingenschmid Santos",
-      "b": "Solange Aparecida Corrêa",
-      "peso": 1
-    },
-    {
-      "a": "Edmilson Minoru Torisu",
-      "b": "Rossely Valoni de Jesus",
-      "peso": 1
-    },
-    {
-      "a": "Fabíola da Cruz Martins",
-      "b": "Silvanio de Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Mariela Zang",
-      "b": "Gretel Alejandrina Fernandez von Metzen",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Mariela Zang",
-      "b": "María Natalia León",
-      "peso": 1
-    },
-    {
-      "a": "Gretel Alejandrina Fernandez von Metzen",
-      "b": "María Natalia León",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Regina dos Santos Andrade",
-      "b": "Gilda Lisbôa Guimarães",
-      "peso": 1
-    },
-    {
-      "a": "Angela Marta Pereira das Dores Savioli",
-      "b": "Marcelo Silva de Jesus",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lúcia Manrique",
-      "b": "Douglas da Silva Tinti",
-      "peso": 2
-    },
-    {
-      "a": "Ana Lúcia Manrique",
-      "b": "Wanusa Rodrigues da Silva",
-      "peso": 2
-    },
-    {
-      "a": "Douglas da Silva Tinti",
-      "b": "Wanusa Rodrigues da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Gabriel Willyan Pinheiro de Souza",
-      "b": "Manoel Fernandes Braz Rendeiro",
-      "peso": 2
-    },
-    {
-      "a": "Agnaldo da Conceição Esquincalha",
-      "b": "Luísa Cardoso Mendes",
-      "peso": 1
-    },
-    {
-      "a": "Jair Lopes Junior",
-      "b": "Thais Paschoal Postingue",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Assis Ferreira",
-      "b": "José Jorge Francisco de Santana",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Assis Ferreira",
-      "b": "Roseli de Alvarenga Corrêa",
-      "peso": 1
-    },
-    {
-      "a": "José Jorge Francisco de Santana",
-      "b": "Roseli de Alvarenga Corrêa",
-      "peso": 1
-    },
-    {
-      "a": "Iran Abreu Mendes",
-      "b": "Ivonne C. Sánchez",
-      "peso": 1
-    },
-    {
-      "a": "Iran Abreu Mendes",
-      "b": "Luis Andrés Castillo",
-      "peso": 1
-    },
-    {
-      "a": "Ivonne C. Sánchez",
-      "b": "Luis Andrés Castillo",
-      "peso": 3
-    },
-    {
-      "a": "Crislaine de Anunciação Roveda",
-      "b": "João Alberto da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Crislaine de Anunciação Roveda",
-      "b": "Luana Leal Alves",
-      "peso": 1
-    },
-    {
-      "a": "Crislaine de Anunciação Roveda",
-      "b": "Thaís Daltoé",
-      "peso": 1
-    },
-    {
-      "a": "João Alberto da Silva",
-      "b": "Luana Leal Alves",
-      "peso": 1
-    },
-    {
-      "a": "João Alberto da Silva",
-      "b": "Thaís Daltoé",
-      "peso": 1
-    },
-    {
-      "a": "Luana Leal Alves",
-      "b": "Thaís Daltoé",
-      "peso": 1
-    },
-    {
-      "a": "Débora Pelli",
-      "b": "Fernando de Carvalho Pires",
-      "peso": 1
-    },
-    {
-      "a": "Aparecida Santana de Souza Chiari",
-      "b": "Victor Ferreira Ragoni",
-      "peso": 1
-    },
-    {
-      "a": "Gregson Barros da Silva",
-      "b": "José Maria N. David",
-      "peso": 1
-    },
-    {
-      "a": "Gregson Barros da Silva",
-      "b": "Liamara Scortegagna",
-      "peso": 1
-    },
-    {
-      "a": "José Maria N. David",
-      "b": "Liamara Scortegagna",
-      "peso": 1
-    },
-    {
-      "a": "João Carlos Pereira de Moraes",
-      "b": "Keila Cristina Weçolovis",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Eliane Ferreira Pinto",
-      "peso": 1
-    },
-    {
-      "a": "Jhenifer Licero Schuete Silva",
-      "b": "Luciana Figueiredo Lacanallo Arrais",
-      "peso": 1
-    },
-    {
-      "a": "Jhenifer Licero Schuete Silva",
-      "b": "Maria Luiza Evangelista Gil",
-      "peso": 1
-    },
-    {
-      "a": "Luciana Figueiredo Lacanallo Arrais",
-      "b": "Maria Luiza Evangelista Gil",
-      "peso": 1
-    },
-    {
-      "a": "Mikaelly Silva Andrade",
-      "b": "Simone Moura Queiroz",
-      "peso": 1
-    },
-    {
-      "a": "Gleidson Filadelfo Dimaranes",
-      "b": "Jaiane Sousa Fonseca",
-      "peso": 1
-    },
-    {
-      "a": "Gleidson Filadelfo Dimaranes",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Gleidson Filadelfo Dimaranes",
-      "b": "Lívia dos Santos Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Jaiane Sousa Fonseca",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Jaiane Sousa Fonseca",
-      "b": "Lívia dos Santos Sousa",
-      "peso": 1
-    },
-    {
-      "a": "José Milton Lopes Pinheiro",
-      "b": "Lívia dos Santos Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Everton Lira da Silva",
-      "b": "João Ferreira da Silva Neto",
-      "peso": 1
-    },
-    {
-      "a": "Everton Lira da Silva",
-      "b": "João Vitor da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Everton Lira da Silva",
-      "b": "Vinicios Avelino da Silva",
-      "peso": 1
-    },
-    {
-      "a": "João Ferreira da Silva Neto",
-      "b": "João Vitor da Silva",
-      "peso": 1
-    },
-    {
-      "a": "João Ferreira da Silva Neto",
-      "b": "Vinicios Avelino da Silva",
-      "peso": 1
-    },
-    {
-      "a": "João Vitor da Silva",
-      "b": "Vinicios Avelino da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Adriege Rodrigues",
-      "b": "Ana Cláudia da Silva Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Adriege Rodrigues",
-      "b": "Izabela Barbosa Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Ana Cláudia da Silva Rodrigues",
-      "b": "Izabela Barbosa Freitas",
-      "peso": 1
-    },
-    {
-      "a": "João Pedro Antunes de Paulo",
-      "b": "João Ricardo Viola dos Santos",
-      "peso": 2
-    },
-    {
-      "a": "João Pedro Antunes de Paulo",
-      "b": "Rejane Siqueira Julio",
-      "peso": 2
-    },
-    {
-      "a": "João Ricardo Viola dos Santos",
-      "b": "Rejane Siqueira Julio",
-      "peso": 2
-    },
-    {
-      "a": "Maria Aparecida Viggiani Bicudo",
-      "b": "Rosemeire de Fatima Batistela",
-      "peso": 1
-    },
-    {
-      "a": "Adailton Alves da Silva",
-      "b": "João Severino Filho",
-      "peso": 1
-    },
-    {
-      "a": "João Paulo Risso",
-      "b": "Thiago Donda Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Tamayo",
-      "b": "Victor Giraldo",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Augusto da Silva Melo",
-      "b": "Paulo Vilhena da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Augusto da Silva Melo",
-      "b": "Valdomiro Pinheiro Teixeira Junior",
-      "peso": 1
-    },
-    {
-      "a": "Paulo Vilhena da Silva",
-      "b": "Valdomiro Pinheiro Teixeira Junior",
-      "peso": 1
-    },
-    {
-      "a": "Arilson Monteiro dos Santos",
-      "b": "Henrique Marins de Carvalho",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Tamayo",
-      "b": "Diego Matos",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Tamayo",
-      "b": "Fellipe Coelho",
-      "peso": 1
-    },
-    {
-      "a": "Diego Matos",
-      "b": "Fellipe Coelho",
-      "peso": 1
-    },
-    {
-      "a": "Deise Aparecida Peralta",
-      "b": "Flavio Augusto Leite Taveira",
-      "peso": 5
-    },
-    {
-      "a": "Elhane de Fatima Fritsch Cararo",
-      "b": "Tiago Emanuel Klüber",
-      "peso": 1
-    },
-    {
-      "a": "Elaine Caire",
-      "b": "Virgínia Cardia Cardoso",
-      "peso": 1
-    },
-    {
-      "a": "Antonio dos Santos Andrade",
-      "b": "Cecília Pereira Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Antonio dos Santos Andrade",
-      "b": "Egídio Rodrigues Martins",
-      "peso": 1
-    },
-    {
-      "a": "Antonio dos Santos Andrade",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Antonio dos Santos Andrade",
-      "b": "Luis Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "Cecília Pereira Andrade",
-      "b": "Egídio Rodrigues Martins",
-      "peso": 1
-    },
-    {
-      "a": "Cecília Pereira Andrade",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Cecília Pereira Andrade",
-      "b": "Luis Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "Egídio Rodrigues Martins",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Egídio Rodrigues Martins",
-      "b": "Luis Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "José Milton Lopes Pinheiro",
-      "b": "Luis Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "Joao Coelho Neto",
-      "b": "Marilia Bazan Blanco",
-      "peso": 1
-    },
-    {
-      "a": "Joao Coelho Neto",
-      "b": "Patricia Souza",
-      "peso": 1
-    },
-    {
-      "a": "Marilia Bazan Blanco",
-      "b": "Patricia Souza",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "Maria José Araújo Souza",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "Renata Teófilo de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Maria José Araújo Souza",
-      "b": "Renata Teófilo de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Duarte da Silva",
-      "b": "Nilton Cezar Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Duarte da Silva",
-      "b": "Wagna Mendes Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Nilton Cezar Ferreira",
-      "b": "Wagna Mendes Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Evandro Ghedin",
-      "b": "Lucélida de Fátima Maia da Costa",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Glavam Duarte",
-      "b": "Patrícia Lima da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Maria Débora de Lima Souza",
-      "b": "Maria das Graças de Lima Souza Filha Souza Filha",
-      "peso": 1
-    },
-    {
-      "a": "Egidio Rodrigues Martins",
-      "b": "Lilian Esquinelato da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Egidio Rodrigues Martins",
-      "b": "Sabrina Aparecida Martins Vallilo",
-      "peso": 1
-    },
-    {
-      "a": "Lilian Esquinelato da Silva",
-      "b": "Sabrina Aparecida Martins Vallilo",
-      "peso": 1
-    },
-    {
-      "a": "Jader Otavio Dalto",
-      "b": "Karina Alessandra Pessoa da Silva",
-      "peso": 2
-    },
-    {
-      "a": "Klismann Winter Pinheiro",
-      "b": "Larissa Pereira da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Klismann Winter Pinheiro",
-      "b": "Leandro Blass",
-      "peso": 1
-    },
-    {
-      "a": "Klismann Winter Pinheiro",
-      "b": "Lorenzo Schneider Morales",
-      "peso": 1
-    },
-    {
-      "a": "Klismann Winter Pinheiro",
-      "b": "Lucas Capello",
-      "peso": 1
-    },
-    {
-      "a": "Klismann Winter Pinheiro",
-      "b": "Sonia Maria da Silva Junqueira",
-      "peso": 1
-    },
-    {
-      "a": "Larissa Pereira da Silva",
-      "b": "Leandro Blass",
-      "peso": 1
-    },
-    {
-      "a": "Larissa Pereira da Silva",
-      "b": "Lorenzo Schneider Morales",
-      "peso": 1
-    },
-    {
-      "a": "Larissa Pereira da Silva",
-      "b": "Lucas Capello",
-      "peso": 1
-    },
-    {
-      "a": "Larissa Pereira da Silva",
-      "b": "Sonia Maria da Silva Junqueira",
-      "peso": 1
-    },
-    {
-      "a": "Leandro Blass",
-      "b": "Lorenzo Schneider Morales",
-      "peso": 1
-    },
-    {
-      "a": "Leandro Blass",
-      "b": "Lucas Capello",
-      "peso": 1
-    },
-    {
-      "a": "Leandro Blass",
-      "b": "Sonia Maria da Silva Junqueira",
-      "peso": 1
-    },
-    {
-      "a": "Lorenzo Schneider Morales",
-      "b": "Lucas Capello",
-      "peso": 1
-    },
-    {
-      "a": "Lorenzo Schneider Morales",
-      "b": "Sonia Maria da Silva Junqueira",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Capello",
-      "b": "Sonia Maria da Silva Junqueira",
-      "peso": 1
-    },
-    {
-      "a": "Josué Antunes de Macêdo",
-      "b": "Lailson dos Reis Pereira Lopes",
-      "peso": 1
-    },
-    {
-      "a": "Josué Antunes de Macêdo",
-      "b": "Ítalo Andrew Rodrigues Santos",
-      "peso": 1
-    },
-    {
-      "a": "Lailson dos Reis Pereira Lopes",
-      "b": "Ítalo Andrew Rodrigues Santos",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Minosso",
-      "b": "Maria Lucia Panossian",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Minosso",
-      "b": "Stephanie Díaz-Urdaneta",
-      "peso": 1
-    },
-    {
-      "a": "Maria Lucia Panossian",
-      "b": "Stephanie Díaz-Urdaneta",
-      "peso": 1
-    },
-    {
-      "a": "Antônio dos Santos Andrade",
-      "b": "Lucas Augusto Moreira Barros",
-      "peso": 1
-    },
-    {
-      "a": "Antônio dos Santos Andrade",
-      "b": "Luiz Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Augusto Moreira Barros",
-      "b": "Luiz Carlos Leal Junior",
-      "peso": 1
-    },
-    {
-      "a": "Cíntia Raquel Ferreira Mercado de Almeida",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Gilbson Velasco",
-      "b": "Regiane da Silva Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Gabriele Souza de Carvalho",
-      "b": "Grace Dórea Santos Baqueiro",
-      "peso": 1
-    },
-    {
-      "a": "Gabrielle Janaina Barros de Menezes",
-      "b": "Ronaldo Barros Ripardo",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Richit",
-      "b": "Indiana Picolo Vial",
-      "peso": 1
-    },
-    {
-      "a": "Fernando de Carvalho Pires",
-      "b": "Joseane Mirtis de Queiroz Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Bruno Damien da Costa Paes Jürgensen",
-      "b": "Jader Otavio Dalto",
-      "peso": 1
-    },
-    {
-      "a": "Bruno Damien da Costa Paes Jürgensen",
-      "b": "Marcele Tavares Mendes",
-      "peso": 1
-    },
-    {
-      "a": "Jader Otavio Dalto",
-      "b": "Marcele Tavares Mendes",
-      "peso": 1
-    },
-    {
-      "a": "Dayani Quero da Silva",
-      "b": "João Ricardo Viola dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Pamela Emanueli Alves Ferreira",
-      "b": "Regina Luzia Corio de Buriasco",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Rodrigues Batista",
-      "b": "Henrique Marins de Carvalho",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Rodrigues Batista",
-      "b": "Laissa Figueiredo do Valle",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Rodrigues Batista",
-      "b": "Natan Onoda",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Rodrigues Batista",
-      "b": "Valéria Azzi Collet da Graça",
-      "peso": 1
-    },
-    {
-      "a": "Henrique Marins de Carvalho",
-      "b": "Laissa Figueiredo do Valle",
-      "peso": 1
-    },
-    {
-      "a": "Henrique Marins de Carvalho",
-      "b": "Natan Onoda",
-      "peso": 1
-    },
-    {
-      "a": "Henrique Marins de Carvalho",
-      "b": "Valéria Azzi Collet da Graça",
-      "peso": 1
-    },
-    {
-      "a": "Laissa Figueiredo do Valle",
-      "b": "Natan Onoda",
-      "peso": 1
-    },
-    {
-      "a": "Laissa Figueiredo do Valle",
-      "b": "Valéria Azzi Collet da Graça",
-      "peso": 1
-    },
-    {
-      "a": "Natan Onoda",
-      "b": "Valéria Azzi Collet da Graça",
-      "peso": 1
-    },
-    {
-      "a": "Carlos Augusto Aguilar Júnior",
-      "b": "Geraldo Eustáquio Moreira",
-      "peso": 1
-    },
-    {
-      "a": "Carlos Augusto Aguilar Júnior",
-      "b": "Maria Isabel Ramalho Ortigão",
-      "peso": 1
-    },
-    {
-      "a": "Geraldo Eustáquio Moreira",
-      "b": "Maria Isabel Ramalho Ortigão",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Azevedo Abou Mourad",
-      "b": "Carlos Augusto Aguilar Júnior",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Azevedo Abou Mourad",
-      "b": "Felipe Olavo Silva",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Azevedo Abou Mourad",
-      "b": "Rafael Guimarães de Assis Motta",
-      "peso": 1
-    },
-    {
-      "a": "Carlos Augusto Aguilar Júnior",
-      "b": "Felipe Olavo Silva",
-      "peso": 1
-    },
-    {
-      "a": "Carlos Augusto Aguilar Júnior",
-      "b": "Rafael Guimarães de Assis Motta",
-      "peso": 1
-    },
-    {
-      "a": "Felipe Olavo Silva",
-      "b": "Rafael Guimarães de Assis Motta",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Helena Borssoi",
-      "b": "Jader Otavio Dalto",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Helena Borssoi",
-      "b": "Karina Alessandra Pessoa da Silva",
-      "peso": 1
-    },
-    {
-      "a": "André Luis Trevisan",
-      "b": "Marcele Tavares Mendes",
-      "peso": 1
-    },
-    {
-      "a": "André Luis Trevisan",
-      "b": "Renata Graciele Batista Rodrigues Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "André Luis Trevisan",
-      "b": "Talita Canassa Weber",
-      "peso": 1
-    },
-    {
-      "a": "Marcele Tavares Mendes",
-      "b": "Renata Graciele Batista Rodrigues Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Marcele Tavares Mendes",
-      "b": "Talita Canassa Weber",
-      "peso": 1
-    },
-    {
-      "a": "Renata Graciele Batista Rodrigues Rodrigues",
-      "b": "Talita Canassa Weber",
-      "peso": 1
-    },
-    {
-      "a": "Erilúcia Souza da Silva",
-      "b": "João Carlos Caldato",
-      "peso": 1
-    },
-    {
-      "a": "Erilúcia Souza da Silva",
-      "b": "Maria Helena Monteiro Mendes Baccar",
-      "peso": 1
-    },
-    {
-      "a": "Erilúcia Souza da Silva",
-      "b": "Mário Keniichi Gushima Moura",
-      "peso": 1
-    },
-    {
-      "a": "João Carlos Caldato",
-      "b": "Maria Helena Monteiro Mendes Baccar",
-      "peso": 1
-    },
-    {
-      "a": "João Carlos Caldato",
-      "b": "Mário Keniichi Gushima Moura",
-      "peso": 1
-    },
-    {
-      "a": "Maria Helena Monteiro Mendes Baccar",
-      "b": "Mário Keniichi Gushima Moura",
-      "peso": 1
-    },
-    {
-      "a": "Gabriel dos Santos e Silva",
-      "b": "Jessica Aparecida Borssoi Zanquim",
-      "peso": 1
-    },
-    {
-      "a": "Gabriel dos Santos e Silva",
-      "b": "Mariana Souza Innocenti",
-      "peso": 1
-    },
-    {
-      "a": "Jessica Aparecida Borssoi Zanquim",
-      "b": "Mariana Souza Innocenti",
-      "peso": 1
-    },
-    {
-      "a": "Cloves Kurek",
-      "b": "Morgana Scheller",
-      "peso": 1
-    },
-    {
-      "a": "Cloves Kurek",
-      "b": "Rita de Cássia Tenfen",
-      "peso": 1
-    },
-    {
-      "a": "Morgana Scheller",
-      "b": "Rita de Cássia Tenfen",
-      "peso": 1
-    },
-    {
-      "a": "Cármen Lúcia Blancaglion Passos",
-      "b": "Flavia dos Santos Soares",
-      "peso": 1
-    },
-    {
-      "a": "Marcia Cristina de Costa Trindade Cyrino",
-      "b": "Regina Célia Grando Grando",
-      "peso": 1
-    },
-    {
-      "a": "Alexandrina Monteiro",
-      "b": "Antonio Miguel",
-      "peso": 1
-    },
-    {
-      "a": "Alexandrina Monteiro",
-      "b": "Carolina Tamayo",
-      "peso": 1
-    },
-    {
-      "a": "Alexandrina Monteiro",
-      "b": "Elizabeth Gomes Souza",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Miguel",
-      "b": "Carolina Tamayo",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Miguel",
-      "b": "Elizabeth Gomes Souza",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Tamayo",
-      "b": "Elizabeth Gomes Souza",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Kátia Gabriela Moreira",
-      "peso": 2
-    },
-    {
-      "a": "Adriano Vargas Freitas",
-      "b": "Francisco Josimar Ricardo Xavier",
-      "peso": 1
-    },
-    {
-      "a": "Adriano Vargas Freitas",
-      "b": "Julio Cesar de Moura Dias",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Josimar Ricardo Xavier",
-      "b": "Julio Cesar de Moura Dias",
-      "peso": 1
-    },
-    {
-      "a": "Antonia Alves Pereira da Silva",
-      "b": "Maria Isabel Ramalho Ortigão",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire De Paula",
-      "b": "Flávia Cristina de Macêdo Santana",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire De Paula",
-      "b": "Patrícia Sândalo Pereira",
-      "peso": 1
-    },
-    {
-      "a": "Flávia Cristina de Macêdo Santana",
-      "b": "Patrícia Sândalo Pereira",
-      "peso": 1
-    },
-    {
-      "a": "Giovani Cammarota",
-      "b": "Margareth Sacramento Rotondo",
-      "peso": 1
-    },
-    {
-      "a": "Giovani Cammarota",
-      "b": "Sônia Maria Clareto",
-      "peso": 1
-    },
-    {
-      "a": "Margareth Sacramento Rotondo",
-      "b": "Sônia Maria Clareto",
-      "peso": 1
-    },
-    {
-      "a": "Armando Traldi Jr",
-      "b": "Enio Freire de Paula",
-      "peso": 2
-    },
-    {
-      "a": "Armando Traldi Jr",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 2
-    },
-    {
-      "a": "Armando Traldi Jr",
-      "b": "Vinicius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire de Paula",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 2
-    },
-    {
-      "a": "Enio Freire de Paula",
-      "b": "Vinicius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Rogério Marques Ribeiro",
-      "b": "Vinicius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Heriberto Silva Nunes Bezerra",
-      "b": "Tatiani Daiana de Novaes",
-      "peso": 1
-    },
-    {
-      "a": "Alixandre Marques Cruz",
-      "b": "Carlos Alberto de Vasconcelos",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Antonia Naiara de Sousa Batista",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Francisco Hemerson Brito da Silva",
-      "peso": 2
-    },
-    {
-      "a": "Antonia Naiara de Sousa Batista",
-      "b": "Francisco Hemerson Brito da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Carloney Alves de Oliveira",
-      "b": "Joenneyres Raio de Souza Amancio",
-      "peso": 1
-    },
-    {
-      "a": "Ernandes Rocha de Oliveira",
-      "b": "Inocêncio Fernandes Balieiro Filho",
-      "peso": 1
-    },
-    {
-      "a": "Carlson Guerreiro de Almeida",
-      "b": "Jacqueline Nascimento de Souza",
-      "peso": 1
-    },
-    {
-      "a": "Carlson Guerreiro de Almeida",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Jacqueline Nascimento de Souza",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Cassio Cristiano Giordano",
-      "b": "Marlúbia Corrêa de Paula",
-      "peso": 1
-    },
-    {
-      "a": "Cassio Cristiano Giordano",
-      "b": "Reinaldo Feio Lima",
-      "peso": 1
-    },
-    {
-      "a": "Marlúbia Corrêa de Paula",
-      "b": "Reinaldo Feio Lima",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Richit",
-      "b": "Bruna Mayara Batista Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Richit",
-      "b": "Simone Venturin",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Mayara Batista Rodrigues",
-      "b": "Simone Venturin",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Gama dos Santos",
-      "b": "Claudia de Oliveira Lozada",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Gama dos Santos",
-      "b": "Cryslane Araújo de Lima",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Gama dos Santos",
-      "b": "Janaíne Ferreira dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Claudia de Oliveira Lozada",
-      "b": "Cryslane Araújo de Lima",
-      "peso": 1
-    },
-    {
-      "a": "Claudia de Oliveira Lozada",
-      "b": "Janaíne Ferreira dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Cryslane Araújo de Lima",
-      "b": "Janaíne Ferreira dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Adriano Alves da Silveira",
-      "b": "Silvanio de Andrade",
-      "peso": 2
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Benedito Junior Farias Pantoja",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Daniele Esteves Pereira Smith",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Francisco Wagner Soares Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Benedito Junior Farias Pantoja",
-      "b": "Daniele Esteves Pereira Smith",
-      "peso": 1
-    },
-    {
-      "a": "Benedito Junior Farias Pantoja",
-      "b": "Francisco Wagner Soares Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Daniele Esteves Pereira Smith",
-      "b": "Francisco Wagner Soares Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Albernaz de Paiva Brito",
-      "b": "Gabriel Loureiro de Lima",
-      "peso": 1
-    },
-    {
-      "a": "Fabiana de Souza Marcelo",
-      "b": "Josélia Euzébio da Rosa",
-      "peso": 1
-    },
-    {
-      "a": "Ananias Félix da Silva",
-      "b": "Roger Ruben Huaman Huanca",
-      "peso": 1
-    },
-    {
-      "a": "Fabiane Fischer Figueiredo",
-      "b": "Pedro Mikael Santos Silva",
-      "peso": 1
-    },
-    {
-      "a": "Celiane Costa Machado",
-      "b": "Elaine Corrêa Pereira",
-      "peso": 1
-    },
-    {
-      "a": "Celiane Costa Machado",
-      "b": "Flavia Luciane Pinheiro Gonzales",
-      "peso": 1
-    },
-    {
-      "a": "Celiane Costa Machado",
-      "b": "Kelen Cristina da Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Celiane Costa Machado",
-      "b": "Lupi Scheer dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Elaine Corrêa Pereira",
-      "b": "Flavia Luciane Pinheiro Gonzales",
-      "peso": 1
-    },
-    {
-      "a": "Elaine Corrêa Pereira",
-      "b": "Kelen Cristina da Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Elaine Corrêa Pereira",
-      "b": "Lupi Scheer dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Flavia Luciane Pinheiro Gonzales",
-      "b": "Kelen Cristina da Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Flavia Luciane Pinheiro Gonzales",
-      "b": "Lupi Scheer dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Kelen Cristina da Cruz",
-      "b": "Lupi Scheer dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Edvanilson Santos de Oliveira",
-      "b": "Patrícia Sandalo Pereira",
-      "peso": 1
-    },
-    {
-      "a": "Eurivalda Ribeiro dos Santos Santana",
-      "b": "Reilan Bomfim da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Cláudia Celeste Lima Costa Menezes",
-      "b": "Fabiana dos Santos Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Dailson Evangelista Costa",
-      "b": "Ivonne C. Sánchez",
-      "peso": 1
-    },
-    {
-      "a": "Dailson Evangelista Costa",
-      "b": "Luis Andrés Castillo",
-      "peso": 1
-    },
-    {
-      "a": "Dailson Evangelista Costa",
-      "b": "Thiago Beirigo Lopes",
-      "peso": 1
-    },
-    {
-      "a": "Ivonne C. Sánchez",
-      "b": "Thiago Beirigo Lopes",
-      "peso": 1
-    },
-    {
-      "a": "Luis Andrés Castillo",
-      "b": "Thiago Beirigo Lopes",
-      "peso": 1
-    },
-    {
-      "a": "Adriano Vargas Freitas",
-      "b": "Maria Cecilia Fantinato",
-      "peso": 2
-    },
-    {
-      "a": "Carolina Tamayo",
-      "b": "Jackeline Rodrigues Mendes",
-      "peso": 1
-    },
-    {
-      "a": "Edwin Molano Franco",
-      "b": "Hilbert Blanco Alvarez",
-      "peso": 1
-    },
-    {
-      "a": "Eric Vandendriessche",
-      "b": "Maria Cecilia Fantinato",
-      "peso": 1
-    },
-    {
-      "a": "Kécio Leite",
-      "b": "Quesler Camargos",
-      "peso": 1
-    },
-    {
-      "a": "Cristiane Coppe de Oliveira",
-      "b": "Marília Prado",
-      "peso": 1
-    },
-    {
-      "a": "Eliziara Pereira Coutinho",
-      "b": "Filipe Santos Fernandes",
-      "peso": 1
-    },
-    {
-      "a": "Armando Traldi Jr",
-      "b": "Vinícius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire de Paula",
-      "b": "Vinícius Pazuch",
-      "peso": 2
-    },
-    {
-      "a": "Rogério Marques Ribeiro",
-      "b": "Vinícius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Ivanete Fátima Blauth",
-      "b": "Suely Scherer",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Cirléia Pereira Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Carloney Alves de Oliveira",
-      "b": "Williane Costa Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Witt",
-      "b": "Maria Lucia Panossian",
-      "peso": 1
-    },
-    {
-      "a": "Andréia Friske",
-      "b": "Maurício Rosa",
-      "peso": 1
-    },
-    {
-      "a": "Patrícia Costa Ginez",
-      "b": "Rogério Fernando Pires",
-      "peso": 1
-    },
-    {
-      "a": "Evandro Tortora",
-      "b": "Giovana Pereira Sander",
-      "peso": 1
-    },
-    {
-      "a": "Evandro Tortora",
-      "b": "Wagner Monger",
-      "peso": 1
-    },
-    {
-      "a": "Giovana Pereira Sander",
-      "b": "Wagner Monger",
-      "peso": 1
-    },
-    {
-      "a": "Letícia Freitas Fernandes",
-      "b": "Sandra Alves de Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Beatriz Maria Pereira Maia",
-      "b": "Francisco Régis Vieira Alves",
-      "peso": 1
-    },
-    {
-      "a": "Beatriz Maria Pereira Maia",
-      "b": "Paulo Vitor da Silva Santiago",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "Paulo Vitor da Silva Santiago",
-      "peso": 1
-    },
-    {
-      "a": "Jurema Lindote Botelho Peixoto",
-      "b": "Tamillis Silva de Andrade Vigas",
-      "peso": 1
-    },
-    {
-      "a": "Araceli Gonçalves",
-      "b": "Morgana Scheller",
-      "peso": 1
-    },
-    {
-      "a": "Antônio Vieira Lima Junior",
-      "b": "José Milton Lopes Pinheiro",
-      "peso": 1
-    },
-    {
-      "a": "Antônio Vieira Lima Junior",
-      "b": "Stéfany Silva Araújo",
-      "peso": 1
-    },
-    {
-      "a": "Antônio Vieira Lima Junior",
-      "b": "Victor Coelho Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "José Milton Lopes Pinheiro",
-      "b": "Stéfany Silva Araújo",
-      "peso": 1
-    },
-    {
-      "a": "José Milton Lopes Pinheiro",
-      "b": "Victor Coelho Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Stéfany Silva Araújo",
-      "b": "Victor Coelho Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Dany Rogers",
-      "b": "Guilherme Santos Souza",
-      "peso": 1
-    },
-    {
-      "a": "Dany Rogers",
-      "b": "Pablo Rogers",
-      "peso": 1
-    },
-    {
-      "a": "Dany Rogers",
-      "b": "Pedro Paulo Melo Arantes",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Santos Souza",
-      "b": "Pablo Rogers",
-      "peso": 1
-    },
-    {
-      "a": "Guilherme Santos Souza",
-      "b": "Pedro Paulo Melo Arantes",
-      "peso": 1
-    },
-    {
-      "a": "Pablo Rogers",
-      "b": "Pedro Paulo Melo Arantes",
-      "peso": 1
-    },
-    {
-      "a": "Andressa Rubim",
-      "b": "Maíra Fernandes",
-      "peso": 1
-    },
-    {
-      "a": "Andressa Rubim",
-      "b": "Raquel Milani",
-      "peso": 1
-    },
-    {
-      "a": "Maíra Fernandes",
-      "b": "Raquel Milani",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Regis Vieira Alves",
-      "b": "Paula Maria Machado Cruz Catarino",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Regis Vieira Alves",
-      "b": "Renata Passos Machado Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Paula Maria Machado Cruz Catarino",
-      "b": "Renata Passos Machado Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Lais Scorziello Feitosa da Silva",
-      "b": "Mylena Simões Campos",
-      "peso": 1
-    },
-    {
-      "a": "Lais Scorziello Feitosa da Silva",
-      "b": "Renan Oliveira Altoé",
-      "peso": 1
-    },
-    {
-      "a": "Mylena Simões Campos",
-      "b": "Renan Oliveira Altoé",
-      "peso": 1
-    },
-    {
-      "a": "Claudinei Camargo Sant'Ana",
-      "b": "Irani Parolin Sant'Ana",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Sezilia Toledo",
-      "peso": 1
-    },
-    {
-      "a": "Diogo Alves de Faria Reis",
-      "b": "Gesiel Alisson Martinho",
-      "peso": 1
-    },
-    {
-      "a": "Irani Parolin Sant’Ana",
-      "b": "Lucas Rocha Santos",
-      "peso": 1
-    },
-    {
-      "a": "Irani Parolin Sant’Ana",
-      "b": "Mariana Lima Matos",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Rocha Santos",
-      "b": "Mariana Lima Matos",
-      "peso": 1
-    },
-    {
-      "a": "Gislaine Aparecida Puton Zortêa",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Claudinei de Camargo Sant’Ana",
-      "b": "Lúcio Campos Costa",
-      "peso": 1
-    },
-    {
-      "a": "Claudinei de Camargo Sant’Ana",
-      "b": "Zenildo Santos",
-      "peso": 1
-    },
-    {
-      "a": "Lúcio Campos Costa",
-      "b": "Zenildo Santos",
-      "peso": 2
-    },
-    {
-      "a": "Andressa Crema Correa",
-      "b": "Pâmela Amado Tristão",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Costa Pereira",
-      "b": "Gisele Pereira Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Carla Camargo Fonseca",
-      "b": "Gabriele Bonotto Silva",
-      "peso": 1
-    },
-    {
-      "a": "Carla Camargo Fonseca",
-      "b": "Vera Lucia Felicetti",
-      "peso": 1
-    },
-    {
-      "a": "Gabriele Bonotto Silva",
-      "b": "Vera Lucia Felicetti",
-      "peso": 1
-    },
-    {
-      "a": "Eurivalda Ribeiro dos Santos Santana",
-      "b": "Maria Elizabete Souza Couto",
-      "peso": 1
-    },
-    {
-      "a": "Eurivalda Ribeiro dos Santos Santana",
-      "b": "Nerivaldo Honorato da Cruz Santos",
-      "peso": 1
-    },
-    {
-      "a": "Eurivalda Ribeiro dos Santos Santana",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Maria Elizabete Souza Couto",
-      "b": "Nerivaldo Honorato da Cruz Santos",
-      "peso": 1
-    },
-    {
-      "a": "Maria Elizabete Souza Couto",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Nerivaldo Honorato da Cruz Santos",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Ana Maria Mota Oliveira Scalabrin",
-      "b": "Solange Mussato",
-      "peso": 1
-    },
-    {
-      "a": "Cleverton Eugênio do Carmo",
-      "b": "Teresa Cristina Etcheverria",
-      "peso": 1
-    },
-    {
-      "a": "Arthur Gonçalves Machado",
-      "b": "Franciene Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Arthur Gonçalves Machado",
-      "b": "Maria Dulce Matos",
-      "peso": 1
-    },
-    {
-      "a": "Arthur Gonçalves Machado",
-      "b": "Walkiria Guimarães",
-      "peso": 1
-    },
-    {
-      "a": "Franciene Ribeiro",
-      "b": "Maria Dulce Matos",
-      "peso": 1
-    },
-    {
-      "a": "Franciene Ribeiro",
-      "b": "Walkiria Guimarães",
-      "peso": 1
-    },
-    {
-      "a": "Maria Dulce Matos",
-      "b": "Walkiria Guimarães",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Clark Orey",
-      "b": "Milton Rosa",
-      "peso": 1
-    },
-    {
-      "a": "Ana Maria Foss",
-      "b": "Paulo Wichnoski",
-      "peso": 1
-    },
-    {
-      "a": "Ana Maria Foss",
-      "b": "Tânia Stella Bassoi",
-      "peso": 1
-    },
-    {
-      "a": "Paulo Wichnoski",
-      "b": "Tânia Stella Bassoi",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Mendes Muniz",
-      "b": "Harryson Júnio Lessa Gonçalves",
-      "peso": 1
-    },
-    {
-      "a": "Bruna Mendes Muniz",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Harryson Júnio Lessa Gonçalves",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Francisca Cláudia Fernandes Fontenele",
-      "b": "Francisco Régis Vieira Alves",
-      "peso": 1
-    },
-    {
-      "a": "Francisca Cláudia Fernandes Fontenele",
-      "b": "Rosalide Carvalho de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "Rosalide Carvalho de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Aline Amanda Sodré",
-      "b": "Edmilson Minoru Torisu",
-      "peso": 1
-    },
-    {
-      "a": "Aline Amanda Sodré",
-      "b": "Marger da Conceição Ventura Viana",
-      "peso": 1
-    },
-    {
-      "a": "Edmilson Minoru Torisu",
-      "b": "Marger da Conceição Ventura Viana",
-      "peso": 1
-    },
-    {
-      "a": "Rosinalda Aurora de Melo Teles",
-      "b": "Wellington José de Arruda Melo",
-      "peso": 1
-    },
-    {
-      "a": "Leandro Blass",
-      "b": "Valesca Brasil Irala",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lucia Manrique",
-      "b": "Elton de Andrade Viana",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lucia Manrique",
-      "b": "Fábio Alexandre Borges",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lucia Manrique",
-      "b": "Joyce Evellyn da Silva Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Elton de Andrade Viana",
-      "b": "Fábio Alexandre Borges",
-      "peso": 1
-    },
-    {
-      "a": "Elton de Andrade Viana",
-      "b": "Joyce Evellyn da Silva Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Fábio Alexandre Borges",
-      "b": "Joyce Evellyn da Silva Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Jaqueline Aparecida Foratto Lixandrão Santos",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "André Pereira da Costa",
-      "b": "Ivanise Gomes Arcanjo Diniz",
-      "peso": 1
-    },
-    {
-      "a": "André Pereira da Costa",
-      "b": "Joubert Lima Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Ivanise Gomes Arcanjo Diniz",
-      "b": "Joubert Lima Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Ronaldo Barros Ripardo",
-      "b": "Rosane Mendes Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Rodrigo Oliveira da Silva",
-      "b": "Bruno Lopes Oliveira da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Rodrigo Oliveira da Silva",
-      "b": "Fernando Emílio Leite de ALmeida",
-      "peso": 1
-    },
-    {
-      "a": "Bruno Lopes Oliveira da Silva",
-      "b": "Fernando Emílio Leite de ALmeida",
-      "peso": 1
-    },
-    {
-      "a": "Davi Ribeiro Novaes Welsing",
-      "b": "Lauro Chagas e Sá",
-      "peso": 1
-    },
-    {
-      "a": "Davi Ribeiro Novaes Welsing",
-      "b": "Organdi Mongin Rovetta",
-      "peso": 1
-    },
-    {
-      "a": "Lauro Chagas e Sá",
-      "b": "Organdi Mongin Rovetta",
-      "peso": 1
-    },
-    {
-      "a": "Evandro Tortora",
-      "b": "Nelson Antonio Pirola",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Brandão Menezes",
-      "b": "Francisco Régis Vieira Alves",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Brandão Menezes",
-      "b": "José Gleison Alves da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "José Gleison Alves da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Cidimar Andreatta",
-      "b": "Norma Suely Gomes Allevato",
-      "peso": 2
-    },
-    {
-      "a": "Caroline Almeida de Souza",
-      "b": "Rogério Ferreira da Fonseca",
-      "peso": 1
-    },
-    {
-      "a": "Clarissa Coragem Ballejo",
-      "b": "Daniela Bonilla Barraza",
-      "peso": 1
-    },
-    {
-      "a": "Clarissa Coragem Ballejo",
-      "b": "Jocelyn D. Pallauta",
-      "peso": 1
-    },
-    {
-      "a": "Daniela Bonilla Barraza",
-      "b": "Jocelyn D. Pallauta",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Alves de Castro",
-      "b": "Edda Curi",
-      "peso": 1
-    },
-    {
-      "a": "Rodrigo Batista",
-      "b": "Vanessa Neto",
-      "peso": 1
-    },
-    {
-      "a": "Eliane Bihuna de Azevedo",
-      "b": "Elisandra Bar de Figueiredo",
-      "peso": 1
-    },
-    {
-      "a": "Eliane Bihuna de Azevedo",
-      "b": "Pedro Manuel Baptista Palhares",
-      "peso": 1
-    },
-    {
-      "a": "Elisandra Bar de Figueiredo",
-      "b": "Pedro Manuel Baptista Palhares",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Lisete Oliveira Groenwald",
-      "b": "Fabiane Fischer Figueiredo",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Lisete Oliveira Groenwald",
-      "b": "Leandro Antonio Recalcati",
-      "peso": 1
-    },
-    {
-      "a": "Fabiane Fischer Figueiredo",
-      "b": "Leandro Antonio Recalcati",
-      "peso": 1
-    },
-    {
-      "a": "Luiz Otavio Rodrigues Mendes",
-      "b": "Marcelo Carlos de Proença",
-      "peso": 1
-    },
-    {
-      "a": "Esther Fernández Arellano",
-      "b": "José Carrillo Yáñez",
-      "peso": 1
-    },
-    {
-      "a": "Ivanete Zuchi Siple",
-      "b": "Sandra Cristina Martini Rostirola",
-      "peso": 1
-    },
-    {
-      "a": "Ana Barbosa",
-      "b": "Isabel Piteira Vale",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Rogério Ramos Socha",
-      "peso": 1
-    },
-    {
-      "a": "Susana Machado Ferreira",
-      "b": "Vanilde Bisognin",
-      "peso": 1
-    },
-    {
-      "a": "Janderson Machado de Valois",
-      "b": "Sabrina Carvalho Silva",
-      "peso": 1
-    },
-    {
-      "a": "Janderson Machado de Valois",
-      "b": "Thiarla Xavier Dal-Cin Zanon",
-      "peso": 1
-    },
-    {
-      "a": "Sabrina Carvalho Silva",
-      "b": "Thiarla Xavier Dal-Cin Zanon",
-      "peso": 1
-    },
-    {
-      "a": "Eleni Bisognin",
-      "b": "Vânia Bolzan Denardi",
-      "peso": 1
-    },
-    {
-      "a": "Ettiène Guérios",
-      "b": "Flavia Cristine Fernandes Souto",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Vieira de Vargas",
-      "b": "Fabiane Cristina Hopner Noguti",
-      "peso": 1
-    },
-    {
-      "a": "Janaína Poffo Possamai",
-      "b": "Viviane Clotilde da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Maria Elisa Esteves Lopes Galvão",
-      "b": "Rosana Nogueira de Lima",
-      "peso": 1
-    },
-    {
-      "a": "Edna Mataruco Duarte",
-      "b": "Norma Suely Gomes Allevato",
-      "peso": 1
-    },
-    {
-      "a": "Célia Barros Nunes",
-      "b": "Leonardo Brito da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Célia Barros Nunes",
-      "b": "Luanne Lima Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Célia Barros Nunes",
-      "b": "Minervina Joseli Espíndola Reis",
-      "peso": 1
-    },
-    {
-      "a": "Leonardo Brito da Silva",
-      "b": "Luanne Lima Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Leonardo Brito da Silva",
-      "b": "Minervina Joseli Espíndola Reis",
-      "peso": 1
-    },
-    {
-      "a": "Luanne Lima Ferreira",
-      "b": "Minervina Joseli Espíndola Reis",
-      "peso": 1
-    },
-    {
-      "a": "Emily Vasconcelos Santos",
-      "b": "Silvanio Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Dolores Alveirinho",
-      "b": "José Filipe",
-      "peso": 1
-    },
-    {
-      "a": "Dolores Alveirinho",
-      "b": "Nuno Santos",
-      "peso": 1
-    },
-    {
-      "a": "Dolores Alveirinho",
-      "b": "Paulo Martins Afonso",
-      "peso": 1
-    },
-    {
-      "a": "José Filipe",
-      "b": "Nuno Santos",
-      "peso": 1
-    },
-    {
-      "a": "José Filipe",
-      "b": "Paulo Martins Afonso",
-      "peso": 1
-    },
-    {
-      "a": "Nuno Santos",
-      "b": "Paulo Martins Afonso",
-      "peso": 1
-    },
-    {
-      "a": "Armando Traldi Jr",
-      "b": "Patrícia Santos da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Marli Eliza Dalmazo Afonso de André",
-      "b": "Renata Prenstteter Gama",
-      "peso": 1
-    },
-    {
-      "a": "Ana Cristina Ferreira",
-      "b": "Maria Cecília Pereira Soares",
-      "peso": 1
-    },
-    {
-      "a": "Acelmo Jesus Brito",
-      "b": "Allan Kardec Messias Silva",
-      "peso": 1
-    },
-    {
-      "a": "Acelmo Jesus Brito",
-      "b": "Márcio Urel Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Acelmo Jesus Brito",
-      "b": "Rael Fernandes Turatti",
-      "peso": 1
-    },
-    {
-      "a": "Allan Kardec Messias Silva",
-      "b": "Márcio Urel Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Allan Kardec Messias Silva",
-      "b": "Rael Fernandes Turatti",
-      "peso": 1
-    },
-    {
-      "a": "Márcio Urel Rodrigues",
-      "b": "Rael Fernandes Turatti",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Wilson Souza Costa Júnior",
-      "peso": 1
-    },
-    {
-      "a": "Francisco Régis Vieira Alves",
-      "b": "Georgyana Gomes Cidrão",
-      "peso": 1
-    },
-    {
-      "a": "Aldo Peres Campos Lopes",
-      "b": "Frederico da Silva Reis",
-      "peso": 1
-    },
-    {
-      "a": "Franklin Fernando Ferreira Pachêco",
-      "b": "Gisele Ferreira Pachêco",
-      "peso": 3
-    },
-    {
-      "a": "Juliana França Viol Paulin",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Natalia Nascimben Delmondi",
-      "b": "Vinícius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Gerson Pastre Oliveira",
-      "b": "Maria Teresa Merino Ruz Mastroianni",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Douglas Pereira Rodrigues da Silva",
-      "b": "Franklin Fernando Ferreira Pachêco",
-      "peso": 1
-    },
-    {
-      "a": "Anderson Douglas Pereira Rodrigues da Silva",
-      "b": "Gisele Ferreira Pachêco",
-      "peso": 1
-    },
-    {
-      "a": "Ademir Donizeti Caldeira",
-      "b": "Douglas da Silva Tinti",
-      "peso": 1
-    },
-    {
-      "a": "Ademir Donizeti Caldeira",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Douglas da Silva Tinti",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Arthur Belford Powell",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Edvonete Souza de Alencar",
-      "b": "Jhony Alexander Villa-Ochoa",
-      "peso": 1
-    },
-    {
-      "a": "Ademir Donizeti Caldeira",
-      "b": "Claudia Glavam Duarte",
-      "peso": 1
-    },
-    {
-      "a": "Ademir Donizeti Caldeira",
-      "b": "Maria Carolina Machado Magnus",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Glavam Duarte",
-      "b": "Maria Carolina Machado Magnus",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula dos Santos Malheiros",
-      "b": "Regis Forner",
-      "peso": 1
-    },
-    {
-      "a": "Celenita Ferreira Marcondes",
-      "b": "Vantielen da Silva Silva",
-      "peso": 1
-    },
-    {
-      "a": "Franciele Piaia",
-      "b": "Vantielen da Silva Silva",
-      "peso": 1
-    },
-    {
-      "a": "Flaviana dos Santos Silva",
-      "b": "Silvana Costa Silva",
-      "peso": 1
-    },
-    {
-      "a": "Flaviana dos Santos Silva",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Silvana Costa Silva",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Fábio Henrique Barbosa",
-      "b": "Paulo Cesar Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Dionísio Burak",
-      "b": "Laynara dos Reis Santos Zontini",
-      "peso": 1
-    },
-    {
-      "a": "Morgana Scheller",
-      "b": "Zulma Elizabete de Freitas Madruga",
-      "peso": 1
-    },
-    {
-      "a": "Ivanil Miranda dos Santos",
-      "b": "Jaqueline de Souza Pereira Grilo",
-      "peso": 1
-    },
-    {
-      "a": "Ivanil Miranda dos Santos",
-      "b": "Ravelle Souza de Jesus",
-      "peso": 1
-    },
-    {
-      "a": "Jaqueline de Souza Pereira Grilo",
-      "b": "Ravelle Souza de Jesus",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lúcia Manrique",
-      "b": "Geraldo Eustáquio Moreira",
-      "peso": 1
-    },
-    {
-      "a": "Douglas da Silva Tinti",
-      "b": "Geraldo Eustáquio Moreira",
-      "peso": 1
-    },
-    {
-      "a": "Cristina de Jesus Teixeira",
-      "b": "Geraldo Eustáquio Moreira",
-      "peso": 1
-    },
-    {
-      "a": "Cristina de Jesus Teixeira",
-      "b": "Thiago Ferreira Paiva",
-      "peso": 1
-    },
-    {
-      "a": "Geraldo Eustáquio Moreira",
-      "b": "Thiago Ferreira Paiva",
-      "peso": 1
-    },
-    {
-      "a": "Camila Ehrat Dias",
-      "b": "Maria Lucia Panossian",
-      "peso": 1
-    },
-    {
-      "a": "Marcia Cristina Ribas",
-      "b": "Marcio André Martins",
-      "peso": 1
-    },
-    {
-      "a": "Anabela Cruz Santos",
-      "b": "Joana Tinoco",
-      "peso": 1
-    },
-    {
-      "a": "Anabela Cruz Santos",
-      "b": "Maria Helena Martinho",
-      "peso": 1
-    },
-    {
-      "a": "Joana Tinoco",
-      "b": "Maria Helena Martinho",
-      "peso": 1
-    },
-    {
-      "a": "Adriela Maria Noronha",
-      "b": "Cátia Maria Nehring",
-      "peso": 1
-    },
-    {
-      "a": "Ana Lúcia Manrique",
-      "b": "Sofia Seixas Takinaga",
-      "peso": 1
-    },
-    {
-      "a": "Eliane Matesco Cristovão",
-      "b": "Gabriela Gomes Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Geraldo Eustáquio Moreira",
-      "b": "Lygianne Batista Vieira",
-      "peso": 1
-    },
-    {
-      "a": "Jessyca Rodrigues de Castro",
-      "b": "Maria Bethânia Sardeiro dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Jessyca Rodrigues de Castro",
-      "b": "Maria Euripedes de Souza Dias",
-      "peso": 1
-    },
-    {
-      "a": "Maria Bethânia Sardeiro dos Santos",
-      "b": "Maria Euripedes de Souza Dias",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Chaves Santos",
-      "b": "Ana Paula Perovano",
-      "peso": 1
-    },
-    {
-      "a": "Karina Aguiar Alves",
-      "b": "Marcia Aguiar",
-      "peso": 1
-    },
-    {
-      "a": "Karina Aguiar Alves",
-      "b": "Regina Lucia da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Karina Aguiar Alves",
-      "b": "Vivilí Maria Silva Gomes",
-      "peso": 1
-    },
-    {
-      "a": "Marcia Aguiar",
-      "b": "Regina Lucia da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Marcia Aguiar",
-      "b": "Vivilí Maria Silva Gomes",
-      "peso": 1
-    },
-    {
-      "a": "Regina Lucia da Silva",
-      "b": "Vivilí Maria Silva Gomes",
-      "peso": 1
-    },
-    {
-      "a": "Barbara Lutaif Bianchini",
-      "b": "Gabriel Loureiro de Lima",
-      "peso": 1
-    },
-    {
-      "a": "Barbara Lutaif Bianchini",
-      "b": "Lucas Diego Antunes Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Gabriel Loureiro de Lima",
-      "b": "Lucas Diego Antunes Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Douglas da Silva Tinti",
-      "b": "Rosana Prado Biani",
-      "peso": 1
-    },
-    {
-      "a": "Douglas da Silva Tinti",
-      "b": "Sergio Lorenzato",
-      "peso": 1
-    },
-    {
-      "a": "Rosana Prado Biani",
-      "b": "Sergio Lorenzato",
-      "peso": 2
-    },
-    {
-      "a": "Alfonso Jiménez Espinosa",
-      "b": "Sergio Lorenzato",
-      "peso": 1
-    },
-    {
-      "a": "Alexandre Herculano Ferreira Freitas",
-      "b": "Alzir Fourny Marinhos",
-      "peso": 1
-    },
-    {
-      "a": "Alexandre Herculano Ferreira Freitas",
-      "b": "Gabriela dos Santos Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Alzir Fourny Marinhos",
-      "b": "Gabriela dos Santos Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Aldiléia da Silva Souza",
-      "b": "Geraldo Eustáquio Moreira",
-      "peso": 1
-    },
-    {
-      "a": "Conceição Aparecida Cruz Longo",
-      "b": "Rosana Prado Biani",
-      "peso": 1
-    },
-    {
-      "a": "Conceição Aparecida Cruz Longo",
-      "b": "Sergio Lorenzato",
-      "peso": 1
-    },
-    {
-      "a": "André Pereira da Costa",
-      "b": "Marilene Rosa dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Henrique Pinto",
-      "b": "Cidimar Andreatta",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Henrique Pinto",
-      "b": "Norma Suely Gomes Allevato",
-      "peso": 1
-    },
-    {
-      "a": "Bárbara Cristina Moreira Sicardi Sicardi Nakayama",
-      "b": "Jaqueline Ferreira Silva",
-      "peso": 1
-    },
-    {
-      "a": "Gilmara Aparecida da Silva",
-      "b": "Nelson Antonio Pirola",
-      "peso": 1
-    },
-    {
-      "a": "Marcelo de Carvalho Borba",
-      "b": "Nilton Silveira Domingues",
-      "peso": 1
-    },
-    {
-      "a": "Paulo Wichnoski",
-      "b": "Tiago Emanuel Klüber",
-      "peso": 1
-    },
-    {
-      "a": "Cristiane Lopes de Carvalho Pinto",
-      "b": "Lucinalva Aparecida Neves",
-      "peso": 1
-    },
-    {
-      "a": "Cristiane Lopes de Carvalho Pinto",
-      "b": "Marlos Gomes de Albuquerque",
-      "peso": 1
-    },
-    {
-      "a": "Lucinalva Aparecida Neves",
-      "b": "Marlos Gomes de Albuquerque",
-      "peso": 1
-    },
-    {
-      "a": "Cecy Leite Alves Carreta",
-      "b": "Elenilton Vieira Godoy",
-      "peso": 1
-    },
-    {
-      "a": "Danielle Alves Martins",
-      "b": "Keli Cristina Conti",
-      "peso": 1
-    },
-    {
-      "a": "Danielle Alves Martins",
-      "b": "Nayara Katherine Duarte Pinto",
-      "peso": 1
-    },
-    {
-      "a": "Keli Cristina Conti",
-      "b": "Nayara Katherine Duarte Pinto",
-      "peso": 1
-    },
-    {
-      "a": "Arthur B. Powell",
-      "b": "Loretta M. Grisi Dicker",
-      "peso": 1
-    },
-    {
-      "a": "Arthur B. Powell",
-      "b": "Muteb M. Alqahtani",
-      "peso": 1
-    },
-    {
-      "a": "Loretta M. Grisi Dicker",
-      "b": "Muteb M. Alqahtani",
-      "peso": 1
-    },
-    {
-      "a": "Américo Junior Nunes da Silva",
-      "b": "Herminia Kelly Barros",
-      "peso": 1
-    },
-    {
-      "a": "Américo Junior Nunes da Silva",
-      "b": "Ilvanete dos Santos Souza",
-      "peso": 1
-    },
-    {
-      "a": "Herminia Kelly Barros",
-      "b": "Ilvanete dos Santos Souza",
-      "peso": 1
-    },
-    {
-      "a": "Kátia Martins Rodrigues",
-      "b": "Laurizete Ferragut Passos",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Duarte Silva",
-      "b": "Márcio Urel Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Duarte Silva",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Márcio Urel Rodrigues",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Júlio Cézar Rodrigues de Oliveira",
-      "b": "Loreni Aparecida Ferreira Baldini",
-      "peso": 1
-    },
-    {
-      "a": "Júlio Cézar Rodrigues de Oliveira",
-      "b": "Márcia Cristina de Costa Trindade Cyrino",
-      "peso": 1
-    },
-    {
-      "a": "Loreni Aparecida Ferreira Baldini",
-      "b": "Márcia Cristina de Costa Trindade Cyrino",
-      "peso": 1
-    },
-    {
-      "a": "Márcia Cristina de Costa Trindade Cyrino",
-      "b": "Paulo Henrique Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Emerson de Souza Silva",
-      "b": "Renata Prenstteter Gama",
-      "peso": 1
-    },
-    {
-      "a": "João Paulo Attie",
-      "b": "Juliene Santos Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "João Paulo Attie",
-      "b": "Tiago de Jesus Souza",
-      "peso": 1
-    },
-    {
-      "a": "Juliene Santos Oliveira",
-      "b": "Tiago de Jesus Souza",
-      "peso": 1
-    },
-    {
-      "a": "Leila Pessôa Da Costa",
-      "b": "Regina Maria Pavanello",
-      "peso": 1
-    },
-    {
-      "a": "Helen de Freitas Santos",
-      "b": "Luciane de Castro Quintiliano",
-      "peso": 1
-    },
-    {
-      "a": "Helen de Freitas Santos",
-      "b": "Zionice Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Luciane de Castro Quintiliano",
-      "b": "Zionice Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Elaine Matesco Cristovão",
-      "b": "Marisa da Silva Dias",
-      "peso": 1
-    },
-    {
-      "a": "André Gustavo Oliveira da Silva",
-      "b": "Rosana Salvi",
-      "peso": 1
-    },
-    {
-      "a": "Inocêncio Fernandes Balieiro Filho",
-      "b": "José Marcos Lopes",
-      "peso": 1
-    },
-    {
-      "a": "Clarossa de Assis Olgin",
-      "b": "Claudia Lisete Oliveira Groenwald",
-      "peso": 1
-    },
-    {
-      "a": "Clovis Gomes da Silva Junio",
-      "b": "Edelweis José Tavares Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Ana Maria de Andrade Caldeira",
-      "b": "Selma Rosana Santiago Manechine",
-      "peso": 1
-    },
-    {
-      "a": "Cármen Lúcia Brancaglion Passos",
-      "b": "Maria Luciane de Fatima Bertini",
-      "peso": 1
-    },
-    {
-      "a": "André Gustavo Oliveira da Silva",
-      "b": "Lourdes Maria Werle de Almeida",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Innocente Rodrigues",
-      "b": "Maria do Carmo de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Carina Brabo da Silva",
-      "b": "Claudineia Helena Recco",
-      "peso": 1
-    },
-    {
-      "a": "Conceição Aparecida Parateli",
-      "b": "Eliane Matesco Cristovão",
-      "peso": 1
-    },
-    {
-      "a": "Conceição Aparecida Parateli",
-      "b": "Maria das Graças dos Santos Abreu",
-      "peso": 1
-    },
-    {
-      "a": "Conceição Aparecida Parateli",
-      "b": "Regina Célia Mussi Pontes",
-      "peso": 1
-    },
-    {
-      "a": "Eliane Matesco Cristovão",
-      "b": "Maria das Graças dos Santos Abreu",
-      "peso": 1
-    },
-    {
-      "a": "Eliane Matesco Cristovão",
-      "b": "Regina Célia Mussi Pontes",
-      "peso": 1
-    },
-    {
-      "a": "Maria das Graças dos Santos Abreu",
-      "b": "Regina Célia Mussi Pontes",
-      "peso": 1
-    },
-    {
-      "a": "Carlos Machado",
-      "b": "Joni de Almeida Amorim",
-      "peso": 1
-    },
-    {
-      "a": "Luciana Parente Rocha",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Ely Francina Tannuri de Oliveira",
-      "b": "Maria Cláudia Cabrini Grácio",
-      "peso": 1
-    },
-    {
-      "a": "Edna Maura Zuffi",
-      "b": "Lucas Factor Feliciano",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Cármen L.B. Passos",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Dario Fiorentini",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Eleonora Dantas Brun",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Maria Auxiliadora Megid",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Dario Fiorentini",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Eleonora Dantas Brun",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Maria Auxiliadora Megid",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Cármen L.B. Passos",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Eleonora Dantas Brun",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Maria Auxiliadora Megid",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Eleonora Dantas Brun",
-      "b": "Maria Auxiliadora Megid",
-      "peso": 1
-    },
-    {
-      "a": "Eleonora Dantas Brun",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Eleonora Dantas Brun",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Eleonora Dantas Brun",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Eleonora Dantas Brun",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Maria Auxiliadora Megid",
-      "b": "Maria Tereza Menezes Freitas",
-      "peso": 1
-    },
-    {
-      "a": "Maria Auxiliadora Megid",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Maria Auxiliadora Megid",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Maria Auxiliadora Megid",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Maria Tereza Menezes Freitas",
-      "b": "Marisol Vieira de Melo",
-      "peso": 1
-    },
-    {
-      "a": "Maria Tereza Menezes Freitas",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Maria Tereza Menezes Freitas",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Marisol Vieira de Melo",
-      "b": "Regina Célia Grando",
-      "peso": 1
-    },
-    {
-      "a": "Marisol Vieira de Melo",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Regina Célia Grando",
-      "b": "Rosana Giaretta Sguerra Miskulin",
-      "peso": 1
-    },
-    {
-      "a": "Anna Regina Lanner de Moura",
-      "b": "Leila Barbosa Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Lourdes De La Rosa Onuchic",
-      "b": "Luciene Souto Botta",
-      "peso": 1
-    },
-    {
-      "a": "Marcelo de Carvalho Borba",
-      "b": "Telma de Souza Gracias",
-      "peso": 1
-    },
-    {
-      "a": "Davi de Souza",
-      "b": "Eurípedes Alves da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Claudemir Murari",
-      "b": "Ruy Madsen Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Marcos Luiz Lourenço",
-      "b": "Ruy Madsen Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Miguel",
-      "b": "Maria Ângela Miorim",
-      "peso": 1
-    },
-    {
-      "a": "Armando Traldi Júnior",
-      "b": "Rogério Marques Ribeiro",
-      "peso": 1
-    },
-    {
-      "a": "Armando Traldi Júnior",
-      "b": "Valéria Ostete Jannis Luchetta",
-      "peso": 1
-    },
-    {
-      "a": "Rogério Marques Ribeiro",
-      "b": "Valéria Ostete Jannis Luchetta",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Priscila Bernardo Martins",
-      "peso": 1
-    },
-    {
-      "a": "Adair Mendes Nacarato",
-      "b": "Vanessa Dias Moretti",
-      "peso": 1
-    },
-    {
-      "a": "Priscila Bernardo Martins",
-      "b": "Vanessa Dias Moretti",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire de Paula",
-      "b": "Lucas Carato Mazzi",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Carato Mazzi",
-      "b": "Vinícius Pazuch",
-      "peso": 1
-    },
-    {
-      "a": "Cármen Lúcia Brancaglion Passos",
-      "b": "Everaldo Gomes Leandro",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Luciane de Fatima Bertini",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Suzete Souza Borelli",
-      "peso": 1
-    },
-    {
-      "a": "Luciane de Fatima Bertini",
-      "b": "Suzete Souza Borelli",
-      "peso": 1
-    },
-    {
-      "a": "Júlio Cesar Augusto do Valle",
-      "b": "Maria do Carmo de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Júlio Cesar Augusto do Valle",
-      "b": "Wellington Pereira das Virgens Virgens",
-      "peso": 1
-    },
-    {
-      "a": "Maria do Carmo de Sousa",
-      "b": "Wellington Pereira das Virgens Virgens",
-      "peso": 1
-    },
-    {
-      "a": "Clarissa de Assis Olgin",
-      "b": "Deise Aparecida Peralta",
-      "peso": 1
-    },
-    {
-      "a": "Clarissa de Assis Olgin",
-      "b": "Flavio Augusto Leite Taveira",
-      "peso": 1
-    },
-    {
-      "a": "Cristiane Klöpsch",
-      "b": "Vinicio de Macedo Santos",
-      "peso": 1
-    },
-    {
-      "a": "Júlio César Augusto do Valle",
-      "b": "Maria Luiza Rocha Bueno",
-      "peso": 2
-    },
-    {
-      "a": "Edicléia Xavier da Costa",
-      "b": "Elenilton Vieira Godoy",
-      "peso": 1
-    },
-    {
-      "a": "Carla Cristina Pompeu",
-      "b": "Douglas Silva Santos",
-      "peso": 1
-    },
-    {
-      "a": "Carla Cristina Pompeu",
-      "b": "Janaina Farias de Ornellas",
-      "peso": 1
-    },
-    {
-      "a": "Douglas Silva Santos",
-      "b": "Janaina Farias de Ornellas",
-      "peso": 1
-    },
-    {
-      "a": "Harryson Júnio Lessa Gonçalves",
-      "b": "Joana Inês Novaes",
-      "peso": 1
-    },
-    {
-      "a": "Marcio Antonio da Silva",
-      "b": "Ricardo Gomes Assunção",
-      "peso": 1
-    },
-    {
-      "a": "Deise Aparecida Peralta",
-      "b": "Elda de Aguiar Gama Mortinho",
-      "peso": 1
-    },
-    {
-      "a": "Deise Aparecida Peralta",
-      "b": "Paula Cristina Constantino Santos",
-      "peso": 1
-    },
-    {
-      "a": "Deise Aparecida Peralta",
-      "b": "Roberta de Oliveira Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Elda de Aguiar Gama Mortinho",
-      "b": "Flavio Augusto Leite Taveira",
-      "peso": 1
-    },
-    {
-      "a": "Elda de Aguiar Gama Mortinho",
-      "b": "Paula Cristina Constantino Santos",
-      "peso": 1
-    },
-    {
-      "a": "Elda de Aguiar Gama Mortinho",
-      "b": "Roberta de Oliveira Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Flavio Augusto Leite Taveira",
-      "b": "Paula Cristina Constantino Santos",
-      "peso": 1
-    },
-    {
-      "a": "Flavio Augusto Leite Taveira",
-      "b": "Roberta de Oliveira Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Paula Cristina Constantino Santos",
-      "b": "Roberta de Oliveira Barbosa",
-      "peso": 1
-    },
-    {
-      "a": "Carolina Rodrigues Dias",
-      "b": "Clarissa de Assis Olgin",
-      "peso": 1
-    },
-    {
-      "a": "Cleber Dias da Costa Neto",
-      "b": "Tamires Torres da Purificação",
-      "peso": 1
-    },
-    {
-      "a": "Claudia Lisete Oliveira Groenwald",
-      "b": "Jonata Souza dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Daniele Costa Silva",
-      "b": "Vanessa Neto",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Lucas Carato Mazzi",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Luciana Vieira Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Rúbia Barcelos Amaral",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Carato Mazzi",
-      "b": "Luciana Vieira Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Lucas Carato Mazzi",
-      "b": "Rúbia Barcelos Amaral",
-      "peso": 1
-    },
-    {
-      "a": "Luciana Vieira Andrade",
-      "b": "Rúbia Barcelos Amaral",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Gilberto Januario",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Perovano",
-      "b": "Iolanda Marcia de Souza",
-      "peso": 1
-    },
-    {
-      "a": "Gilberto Januario",
-      "b": "Iolanda Marcia de Souza",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Rosa Rodrigues de Freitas",
-      "b": "Marcio Antonio da Silva",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Rosa Rodrigues de Freitas",
-      "b": "Taune Pacheco",
-      "peso": 1
-    },
-    {
-      "a": "Marcio Antonio da Silva",
-      "b": "Taune Pacheco",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula dos Santos Malheiros",
-      "b": "Júlio César Augusto do Valle",
-      "peso": 1
-    },
-    {
-      "a": "Silvana Duarte Pereira",
-      "b": "Vanessa Lucena Camargo de Almeida Klaus",
-      "peso": 1
-    },
-    {
-      "a": "Adriéli Aline Duarte",
-      "b": "Clodis Boscarioli",
-      "peso": 1
-    },
-    {
-      "a": "Adriéli Aline Duarte",
-      "b": "Fernanda Marchiori Grave",
-      "peso": 1
-    },
-    {
-      "a": "Adriéli Aline Duarte",
-      "b": "Rodolfo Eduardo Vertuan",
-      "peso": 1
-    },
-    {
-      "a": "Clodis Boscarioli",
-      "b": "Fernanda Marchiori Grave",
-      "peso": 1
-    },
-    {
-      "a": "Clodis Boscarioli",
-      "b": "Rodolfo Eduardo Vertuan",
-      "peso": 1
-    },
-    {
-      "a": "Fernanda Marchiori Grave",
-      "b": "Rodolfo Eduardo Vertuan",
-      "peso": 1
-    },
-    {
-      "a": "Fabio Alves Menecucci",
-      "b": "Lucas Carato Mazzi",
-      "peso": 1
-    },
-    {
-      "a": "Denner Dias Barros",
-      "b": "Johnny Nazareth dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Karen Ramos",
-      "b": "Regina Helena de Oliveira Lino Franchi",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Queiroz Moura",
-      "b": "Ana Carolina Faustino",
-      "peso": 1
-    },
-    {
-      "a": "Amanda Queiroz Moura",
-      "b": "Raquel Milani",
-      "peso": 1
-    },
-    {
-      "a": "Ana Carolina Faustino",
-      "b": "Raquel Milani",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula dos Santos Malheiros",
-      "b": "Marília Zabel",
-      "peso": 1
-    },
-    {
-      "a": "Edicleia Xavier da Costa",
-      "b": "Elenilton Vieira Godoy",
-      "peso": 1
-    },
-    {
-      "a": "Edicleia Xavier da Costa",
-      "b": "Lucas Martini",
-      "peso": 1
-    },
-    {
-      "a": "Elenilton Vieira Godoy",
-      "b": "Lucas Martini",
-      "peso": 1
-    },
-    {
-      "a": "Filipe Santos Fernandes",
-      "b": "Meiriele Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Filipe Santos Fernandes",
-      "b": "Trinidad Vaccarezza",
-      "peso": 1
-    },
-    {
-      "a": "Meiriele Cruz",
-      "b": "Trinidad Vaccarezza",
-      "peso": 1
-    },
-    {
-      "a": "Celi Espasandin Lopes",
-      "b": "Solange Loureiro Pozzuto",
-      "peso": 1
-    },
-    {
-      "a": "Endrika Leal Soares",
-      "b": "Luzia Aparecida de Souza",
-      "peso": 1
-    },
-    {
-      "a": "Luciana Miyuki Sado Utsumi",
-      "b": "Zaqueu Vieira Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Vieira dos Santos Bunga",
-      "b": "Zeca Catuco André Quimuanga",
-      "peso": 1
-    },
-    {
-      "a": "Claudinei de Camargo Sant'Ana",
-      "b": "Irani Parolin Sant'Ana",
-      "peso": 1
-    },
-    {
-      "a": "Claudinei de Camargo Sant'Ana",
-      "b": "Renan Pereira Santos",
-      "peso": 1
-    },
-    {
-      "a": "Irani Parolin Sant'Ana",
-      "b": "Renan Pereira Santos",
-      "peso": 1
-    },
-    {
-      "a": "Dario Fiorentini",
-      "b": "Leonardo Lira de Brito",
-      "peso": 1
-    },
-    {
-      "a": "Angelica da Fontoura Garcia Silva",
-      "b": "Daiane Silva Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Carloney Alves de Oliveira",
-      "b": "Jacielma Dantas dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Gilmar Bezerra de Lima",
-      "b": "Maria Alves de Azerêdo",
-      "peso": 1
-    },
-    {
-      "a": "Luana Maria Santos da Silva Ayres",
-      "b": "Tanise Paula Novello",
-      "peso": 1
-    },
-    {
-      "a": "Adriana Nogueira de Oliveira",
-      "b": "Ana Carolina Costa Pereira",
-      "peso": 1
-    },
-    {
-      "a": "Bruno Cesar Alonso",
-      "b": "Luciano Carvalhais Gomes",
-      "peso": 1
-    },
-    {
-      "a": "Bruno Cesar Alonso",
-      "b": "Marli Schmitt Zanella",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Carvalhais Gomes",
-      "b": "Marli Schmitt Zanella",
-      "peso": 1
-    },
-    {
-      "a": "Karina Alessandra Pessoa da Silva",
-      "b": "Priscila de Castro Barros Greca",
-      "peso": 1
-    },
-    {
-      "a": "Célia Aparecida Dias Ferreira Louzada",
-      "b": "Marcio Urel Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Célia Aparecida Dias Ferreira Louzada",
-      "b": "Maria Elizabete Rambo Kochhann",
-      "peso": 1
-    },
-    {
-      "a": "Marcio Urel Rodrigues",
-      "b": "Maria Elizabete Rambo Kochhann",
-      "peso": 1
-    },
-    {
-      "a": "Angelica Aparecida Pacheco",
-      "b": "Janine Freitas Mota",
-      "peso": 1
-    },
-    {
-      "a": "Beatriz Fernanda Litoldo",
-      "b": "Gabriel Amancio Alves",
-      "peso": 1
-    },
-    {
-      "a": "Beatriz Fernanda Litoldo",
-      "b": "Rúbia Barcelos Amaral",
-      "peso": 1
-    },
-    {
-      "a": "Gabriel Amancio Alves",
-      "b": "Rúbia Barcelos Amaral",
-      "peso": 1
-    },
-    {
-      "a": "Erika Capelato",
-      "b": "Gabriela Cervantes Zubirías",
-      "peso": 1
-    },
-    {
-      "a": "Dione Alves de Almeida",
-      "b": "Mônica Maria Teixeira Amorim",
-      "peso": 1
-    },
-    {
-      "a": "Dione Alves de Almeida",
-      "b": "Shirley Patrícia Nogueira de Castro e Almeida",
-      "peso": 1
-    },
-    {
-      "a": "Mônica Maria Teixeira Amorim",
-      "b": "Shirley Patrícia Nogueira de Castro e Almeida",
-      "peso": 1
-    },
-    {
-      "a": "Danielle Abreu Silva",
-      "b": "Giovana Maschio Pereira dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Danielle Abreu Silva",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Giovana Maschio Pereira dos Santos",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Cristine Gusmão",
-      "b": "Dayvid Lós",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Pereira da Silva",
-      "b": "Marcelo de Sousa Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Luciano Pereira da Silva",
-      "b": "Valdomiro Pinheiro Teixeira Junior",
-      "peso": 1
-    },
-    {
-      "a": "Marcelo de Sousa Oliveira",
-      "b": "Valdomiro Pinheiro Teixeira Junior",
-      "peso": 1
-    },
-    {
-      "a": "Deise Aparecida Peralta",
-      "b": "Handerson Ferreira Gonçalves",
-      "peso": 1
-    },
-    {
-      "a": "Flavio Augusto Leite Taveira",
-      "b": "Handerson Ferreira Gonçalves",
-      "peso": 1
-    },
-    {
-      "a": "Fernando Frei",
-      "b": "Jussara Santos Rosa",
-      "peso": 1
-    },
-    {
-      "a": "Renata de Luca Gallo",
-      "b": "Zionice Garbelini Martos Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Flaviana dos Santos Silva",
-      "b": "Jonas Evangelista Silva",
-      "peso": 1
-    },
-    {
-      "a": "Flaviana dos Santos Silva",
-      "b": "Rosemary Aparecida Santiago",
-      "peso": 1
-    },
-    {
-      "a": "Jonas Evangelista Silva",
-      "b": "Rosemary Aparecida Santiago",
-      "peso": 1
-    },
-    {
-      "a": "Fábio Alexandre Borges",
-      "b": "Márcia Cristina de Costa Trindade Cyrino",
-      "peso": 1
-    },
-    {
-      "a": "Fábio Alexandre Borges",
-      "b": "Salvador Cardoso Silva Muniz",
-      "peso": 1
-    },
-    {
-      "a": "Márcia Cristina de Costa Trindade Cyrino",
-      "b": "Salvador Cardoso Silva Muniz",
-      "peso": 1
-    },
-    {
-      "a": "Andressa Florcena Gama da Costa",
-      "b": "Jéssica Costa de Meneses da Cruz",
-      "peso": 1
-    },
-    {
-      "a": "Andressa Florcena Gama da Costa",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Jéssica Costa de Meneses da Cruz",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Felipe de Almeida Costa",
-      "b": "Gilberto Januario",
-      "peso": 1
-    },
-    {
-      "a": "José Jorge de Sousa",
-      "b": "Matheus Marques de Araújo",
-      "peso": 1
-    },
-    {
-      "a": "José Jorge de Sousa",
-      "b": "Silvanio de Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Matheus Marques de Araújo",
-      "b": "Silvanio de Andrade",
-      "peso": 1
-    },
-    {
-      "a": "Jocelei Miranda da Silva",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Carla Beatriz Spohr",
-      "b": "Cecília Elenir dos Santos Rocha",
-      "peso": 1
-    },
-    {
-      "a": "Carla Beatriz Spohr",
-      "b": "Maria Cecília Pereira Santarosa",
-      "peso": 1
-    },
-    {
-      "a": "Cecília Elenir dos Santos Rocha",
-      "b": "Maria Cecília Pereira Santarosa",
-      "peso": 1
-    },
-    {
-      "a": "Antônio Almir Bezerra",
-      "b": "Renata Teófilo de Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Carlesom Piano",
-      "b": "Fernanda Catia Bozelli",
-      "peso": 1
-    },
-    {
-      "a": "Maria da Conceição Alves Ferreira",
-      "b": "Talamira Taita Rodrigues Brito",
-      "peso": 1
-    },
-    {
-      "a": "Maria da Conceição Alves Ferreira",
-      "b": "Williane Costa Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Talamira Taita Rodrigues Brito",
-      "b": "Williane Costa Ferreira",
-      "peso": 1
-    },
-    {
-      "a": "Danielle Fernandes Martins",
-      "b": "Gilberto Januario",
-      "peso": 1
-    },
-    {
-      "a": "Ivanilson Rodrigues da Silva Cunha",
-      "b": "Naralina Viana Soares da Silva Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Jailson França Santos",
-      "b": "Leandro Blass",
-      "peso": 1
-    },
-    {
-      "a": "Maria Margarete do Rosario Farias",
-      "b": "Maritza Maria Lima de Almeida Souza",
-      "peso": 1
-    },
-    {
-      "a": "Maria Margarete do Rosario Farias",
-      "b": "Marlúbia Corrêa de Paula",
-      "peso": 1
-    },
-    {
-      "a": "Maria Margarete do Rosario Farias",
-      "b": "Pâmera Veluma Santos do Amparo",
-      "peso": 1
-    },
-    {
-      "a": "Maritza Maria Lima de Almeida Souza",
-      "b": "Marlúbia Corrêa de Paula",
-      "peso": 1
-    },
-    {
-      "a": "Maritza Maria Lima de Almeida Souza",
-      "b": "Pâmera Veluma Santos do Amparo",
-      "peso": 1
-    },
-    {
-      "a": "Marlúbia Corrêa de Paula",
-      "b": "Pâmera Veluma Santos do Amparo",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Brandão Menezes",
-      "b": "Kátia Romilda Silva do Nascimento",
-      "peso": 1
-    },
-    {
-      "a": "Daniel Brandão Menezes",
-      "b": "Leandro Carlos Oliveira Sales",
-      "peso": 1
-    },
-    {
-      "a": "Kátia Romilda Silva do Nascimento",
-      "b": "Leandro Carlos Oliveira Sales",
-      "peso": 1
-    },
-    {
-      "a": "Saulo Macedo de Oliveira",
-      "b": "Shirley Patrícia Nogueira de Castro e Almeida",
-      "peso": 1
-    },
-    {
-      "a": "André Ricardo Lucas Vieira",
-      "b": "Bruno Roberto Bione de Oliveira",
-      "peso": 1
-    },
-    {
-      "a": "Lemerton Matos Nogueira",
-      "b": "Murilo Coêlho Sousa",
-      "peso": 1
-    },
-    {
-      "a": "Enio Freire de Paula",
-      "b": "Larissa Nogueira dos Santos",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Ianni Segatto",
-      "b": "Deise Aparecida Peralta",
-      "peso": 1
-    },
-    {
-      "a": "Antonio Ianni Segatto",
-      "b": "Flavio Augusto Leite Taveira",
-      "peso": 1
-    },
-    {
-      "a": "Ivo da Silva Knopp",
-      "b": "Ronald Simões de Mattos Pinto",
-      "peso": 1
-    },
-    {
-      "a": "Klinger Teodoro Ciríaco",
-      "b": "Luciane de Castro Quintiliano",
-      "peso": 1
-    },
-    {
-      "a": "Klinger Teodoro Ciríaco",
-      "b": "Zionice Garbelini Martos Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Luciane de Castro Quintiliano",
-      "b": "Zionice Garbelini Martos Rodrigues",
-      "peso": 2
-    },
-    {
-      "a": "Laís Vitória Lazarini",
-      "b": "Marcelo Carlos de Proença",
-      "peso": 1
-    },
-    {
-      "a": "Laís Vitória Lazarini",
-      "b": "Érika Janine Maia-Afonso",
-      "peso": 1
-    },
-    {
-      "a": "Marcelo Carlos de Proença",
-      "b": "Érika Janine Maia-Afonso",
-      "peso": 1
-    },
-    {
-      "a": "Ana Paula Rodrigues Magalhães de Barros",
-      "b": "Dario Fiorentini",
-      "peso": 1
-    },
-    {
-      "a": "Kauane Lemos Santiago",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Emily Beatriz Ramos",
-      "b": "Luciane de Castro Quintiliano",
-      "peso": 1
-    },
-    {
-      "a": "Emily Beatriz Ramos",
-      "b": "Zionice Garbelini Martos Rodrigues",
-      "peso": 1
-    },
-    {
-      "a": "Cauê Duarte",
-      "b": "John Lennon Lindemann",
-      "peso": 1
-    },
-    {
-      "a": "Cauê Duarte",
-      "b": "Rafael Montoito",
-      "peso": 1
-    },
-    {
-      "a": "John Lennon Lindemann",
-      "b": "Rafael Montoito",
-      "peso": 1
-    },
-    {
-      "a": "Maria Raquel Miotto Morelatti",
-      "b": "Natiele Silva Lamera",
-      "peso": 1
-    },
-    {
-      "a": "Fernando Schlindwein Santino",
-      "b": "Klinger Teodoro Ciríaco",
-      "peso": 1
-    },
-    {
-      "a": "Fernando Schlindwein Santino",
-      "b": "Pedro Manuel Baptista Palhares",
-      "peso": 1
-    },
-    {
-      "a": "Klinger Teodoro Ciríaco",
-      "b": "Pedro Manuel Baptista Palhares",
-      "peso": 1
-    },
-    {
-      "a": "Carlos André Bogéa Pereira",
-      "b": "Régia Mayanne Rodrigues Luna",
-      "peso": 1
-    },
-    {
-      "a": "Carlos André Bogéa Pereira",
-      "b": "Waléria de Jesus Barbosa Soares",
-      "peso": 1
-    },
-    {
-      "a": "Régia Mayanne Rodrigues Luna",
-      "b": "Waléria de Jesus Barbosa Soares",
-      "peso": 1
-    }
   ]
 }
